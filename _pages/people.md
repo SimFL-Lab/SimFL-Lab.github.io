@@ -45,12 +45,104 @@ LG Semiconductor Corporation, 1996-1999
 ## Students
 
 ### Ph.D Students
->* __Taehoon Lee__
-<img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>* __Taehoon Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (started in Fall 2019)  
+>Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
+>OR applications: Optimization, Simulation  
+>E-mail:  
+>
+>* __Bongkwon Kang__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (started in Fall 2021)  
+>Research Interest: Simulation optimization, Logistics systems  
+>OR applications: Simulation, Machine learning, Meta heuristics  
+>E-mail:  
+>
+>* __Tran Vo Thao Huong__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (started in Fall 2021)  
+>Research Interest: Logistics systems, Order picking  
+>OR applications: Simulation, Machine learning, Large-scale optimization  
+>E-mail:  
+>
+>* __Juho Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (started in Spring 2021)  
+>Research Interest: Digital twin, Machine learning in construdtion equipment industry  
+>OR applications: Simulation, Machine learning  
+>E-mail:  
+>
+>* __Boa Nam__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD student (started in Spring 2022)   
+>Research Interest: Sustainability and Operations Management  
+>OR applications: Optimization and simulation  
+>E-mail:  
+>
+>* __Gwangwook Han__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD student (started in Spring 2022)  
+>Research Interest: Analysis and Optimization of Material handling operations in Fabs  
+>OR applications: Simulation, Dispatching, Machine learning  
+>E-mail:  
+
 ### Master Students
+>* __Hoyoung Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (joined in Fall 2021)  
+>Research Interest: Order picking  
+>OR applications: Simulation and Optimization  
+>Email:  
+>
+>* __Gwangheon Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (joined in Spring 2022)  
+>Research Interest: Material handling operations in construction equipment industry  
+>OR applications: Machine learning, Simulation  
+>E-mail:  
+>
+>* __Jeongwon Park__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (joined in Spring 2022)  
+>Research Interest: Order Picking and Machine learning  
+>OR applications: Simulation Optimization, Machine learning  
+>Email: jeongwon.park@gmail.com  
+>
+>* __Jeongtae Park__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (joined in Spring 2022)  
+>Research Interest: Material handling and Simulation  
+>OR applications: Machine learning, Simulation  
+>E-mail:  
+>
+>* __Rosi Rahmawati__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (joined in Spring 2022)  
+>Research Interest: Order Picking and Machine learning  
+>OR applications: Simulation Optimization, Machine learning  
+>E-mail:  
 
 ### Undergraduate Students
+>* __Sangil Kang__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (started in Summer 2021)  
+>Research Interest: Simulation and Machine learning in Material handling  
+>E-mail:  
+  
+
 
 ### Former Students
+ 
+__S. Kim__ Master Student (graduated in Spring 2020)  
+__V. Permata__ Master Student (graduated in Fall 2019)  
+__H. Noh__ Master Student (graduated in Spring 2019)   
+__J. Lee__ Master Student (graduated in Fall 2018)  
+__B. Kim__ Master Student (graduated in Fall 2018)  
+__Y. Henokh__ Master Student (graduated in Spring 2018)  
+__J. Kim__ Master Student (graduated in Fall 2018)  
+__T. Nguyen__ Master Student (graduated in 2018)  
+__B. Nam__ Master Student (graduated in 2017)  
+__D. Sofyan__ Master Student (graduated in 2017)  
 
 
