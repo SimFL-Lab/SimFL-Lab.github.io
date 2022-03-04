@@ -1,5 +1,5 @@
 ---
-permalink: /People/
+permalink: /people/
 title: "People"
 toc: true
 toc_sticky: true
