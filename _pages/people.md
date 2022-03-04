@@ -116,11 +116,13 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 >* __Jeongwon Park__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/jeongwon_park.jpg">
+><img align="left" width="150" height="200" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Jeongwon_Park.jpg">
 >MS Student (joined in Spring 2022)  
 >Research Interest: Order Picking and Machine learning  
 >OR applications: Simulation Optimization, Machine learning  
 >Email: jeongwon.park@pusan.ac.kr  
+> <br>
+> <br>
 > <br>
 > <br>
 >* __Jeongtae Park__  
