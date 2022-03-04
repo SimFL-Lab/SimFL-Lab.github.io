@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Soondo Hong"
   avatar           : "/assets/images/Prof_Hong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Industrial Engineering, PNU"
-  location         : "Busan, Republic of Korea"
+  bio              : "Department of Industrial Engineering, Pusan Nat'l University"
+  location         : "Busan, Rep. of Korea"
   email            : "soondo.hong@pusan.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:soondo.hong@pusan.ac.kr"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:soondo.hong@pusan.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://operalab.pusan.ac.kr/operalab/index..do"
