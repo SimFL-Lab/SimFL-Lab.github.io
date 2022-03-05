@@ -9,7 +9,9 @@ layout: single
 ## Publication
 
 ### 2021
-[1] J Kim and S Hong, "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, (Accepted) (2021))
+[1] J Kim and S Hong, "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, (Accepted) (2021))  
+
+[2] Taehoon Lee, Young-Joo Kim, Jihyun Lee, Soondo Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts", Korean Journal of Logistics,29, no.3 (2021) : 69-78.doi: 10.15735/kls.2021.29.3.006
 
 ### 2020
 
@@ -23,7 +25,7 @@ layout: single
 
 [5] HY Fibrianto, B Kang, S Hong, "A Job Sequencing Problem of an Overhead Shuttle Crane in a Rail-Based Automated Container Terminal," IEEE Access, 8, 156362 ~ 156377 (2020)
 
- 
+[6] H. Y. Fibrianto, Bonggwon Kang, Bosung Kim, Annika Marbach, Tobias Buer, H. Haasis, Soondo Hong, Kap-Hwan Kim, "A Simulation Study of a Storage Policy for a Container Terminal", Lecture notes in logistics, Springer International Publishing, 2020-05
 
 ### 2019
 
@@ -115,19 +117,19 @@ layout: single
 
 [1] Kyoun-su Seo, Mi-ok Joh, Young-in Choi, Soondo Hong, and Bum-seok Oh, “Analysis of turbo pump liquid propulsion system for a space launch vehicle”, Journal of Korea Aerospace Research Institute : Aerospace Engineering and Technology , 2(1), 151-157 (2003)
 
-[2] Soondo Hong, Hyunbo Cho, and Mooyoung Jung , “Development of h eterarchical shop-floor control system execution m odule u sing E-Net”, Journal of Korean Institute of Industrial Engineers , 25(1), 87-99 (1999)
+[2] Soondo Hong, Hyunbo Cho, and Mooyoung Jung , “Development of heterarchical shop-floor control system execution m odule u sing E-Net”, Journal of Korean Institute of Industrial Engineers , 25(1), 87-99 (1999)
 
 ## Conference paper
+
+[1] Bosung Kim, Henokh Yernias Fibrianto, Soondo Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
+
+[2] J. Lee, Y. Kim and S. Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
 
 ## Project
 
 11. 자원순환(재제조)산업 고도화 인력양성(2021.04~2025.12, Korea Energy Technology Evaluation and Planning, PI, 200,000 k won/year
 
- 
-
 10. A self-balancing twin-mobility and its optimization for smart logistics and facilities(2020.03~2025.02, Korea Research Foundation, Ministry of Science, ICT and Future Planning, PI, 150,000 k won/year)
-
- 
 
 9. A conveyor-based order assorting system and its economic value (2020.04~2020.11, Korea Railroad Research Institute, PI)
 
