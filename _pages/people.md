@@ -51,7 +51,7 @@ LG Semiconductor Corporation, 1996-1999
 
 ### Ph.D Students
 >* __Taehoon Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Student (started in Fall 2019)  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation  
@@ -89,7 +89,7 @@ LG Semiconductor Corporation, 1996-1999
 >E-mail:  
 > <br>
 > <br>
->* __Gwangwook Han__  
+>* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD student (started in Spring 2022)  
 >Research Interest: Analysis and Optimization of Material handling operations in Fabs  
@@ -125,7 +125,7 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 > <br>
->* __Jeongtae Park__  
+>* __Jungtae Park__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (joined in Spring 2022)  
 >Research Interest: Material handling and Simulation  
@@ -133,7 +133,7 @@ LG Semiconductor Corporation, 1996-1999
 >E-mail:  
 > <br>
 > <br>
->* __Rosi Rahmawati__  
+>* __Rosi Ana Rahmawati__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (joined in Spring 2022)  
 >Research Interest: Order Picking and Machine learning  
