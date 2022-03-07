@@ -102,11 +102,12 @@ LG Semiconductor Corporation, 1996-1999
 
 ### Master Students
 >* __Hoyoung Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (joined in Fall 2021)  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Hoyoung_Kim.jpg">
+>MS Student (joined in Spring 2021)  
 >Research Interest: Order picking  
 >OR applications: Simulation and Optimization  
->Email:  
+>Email: Hoyoung.kim@pusan.ac.kr
+> <br>
 > <br>
 > <br>
 >* __Gwangheon Lee__  
