@@ -111,6 +111,7 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 > <br>
+> <br>
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (joined in Spring 2022)  
