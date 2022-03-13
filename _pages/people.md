@@ -59,12 +59,14 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 > <br>
->* __Bongkwon Kang__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>* __Bonggwon Kang__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
 >PhD Student (started in Fall 2021)  
 >Research Interest: Simulation optimization, Logistics systems  
 >OR applications: Simulation, Machine learning, Meta heuristics  
->E-mail:  
+>E-mail: bonggwon.kang@gmail.com  
+> <br>
+> <br>
 > <br>
 > <br>
 >* __Tran Vo Thao Huong__  
@@ -113,11 +115,14 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 >* __Gwangheon Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
 >MS Student (joined in Spring 2022)  
->Research Interest: Material handling operations in construction equipment industry  
->OR applications: Machine learning, Simulation  
->E-mail:  
+>Research Interest: Order picking   
+>OR applications: Simulation and Optimization  
+>E-mail: sag05017@pusan.ac.kr  
+> <br>
+> <br>
+> <br>
 > <br>
 > <br>
 >* __Jeongwon Park__  
