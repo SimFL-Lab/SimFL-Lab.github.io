@@ -158,15 +158,26 @@ LG Semiconductor Corporation, 1996-1999
 
 ### Former Students
  
-__Seongpil Kim__ Master Student (graduated in 2020)  
-__Permata Vallentino Eko Joatiko__ Master Student (graduated in 2019)  
-__Hoyoung Roh__ Master Student (graduated in 2019)   
-__Jeongman Lee__ Master Student (graduated in 2018)  
-__Bosung Kim__ Master Student (graduated in 2018)  
-__Henokh Yernias Fibrianto__ Master Student (graduated in 2018)  
-__Jihyeon Kim__ Master Student (graduated in 2018)  
-__Nguyen Thuy Mo__ Master Student (graduated in 2018)  
-__Boa Nam__ Master Student (graduated in 2017)  
-__Sofyan Dwi Cahyo__ Master Student (graduated in 2017)  
-__Jeonghwan Kim__ Master student (graduated in 2017)
+>__Seongpil Kim__   
+>Master Student (graduated in 2020)  
+>__Permata Vallentino Eko Joatiko__   
+>Master Student (graduated in 2019)  
+>__Hoyoung Roh__   
+>Master Student (graduated in 2019)   
+__Jeongman Lee__   
+Master Student (graduated in 2018)  
+__Bosung Kim__   
+Master Student (graduated in 2018)  
+__Henokh Yernias Fibrianto__   
+Master Student (graduated in 2018)  
+__Jihyeon Kim__   
+Master Student (graduated in 2018)  
+__Nguyen Thuy Mo__   
+Master Student (graduated in 2018)  
+__Boa Nam__   
+Master Student (graduated in 2017)  
+__Sofyan Dwi Cahyo__   
+Master Student (graduated in 2017)  
+__Jeonghwan Kim__   
+Master student (graduated in 2017)
 
