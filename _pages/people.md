@@ -46,7 +46,7 @@ LG Semiconductor Corporation, 1996-1999
 [Google scholar](https://scholar.google.com/citations?user=pwppTPgAAAAJ&hl=ko) | 
 [Researhgate](https://www.researchgate.net/profile/Soondo-Hong) | 
 [LinkedIn](https://kr.linkedin.com/in/soondo-hong-67bb8ba0) |
-[CV](https://github.com/SimFL-Lab/SimFL-Lab.github.io/tree/main/assets/files/Hong_CurriculumVitae.2021.v2.pdf)
+[CV](https://nbviewer.org/github/SimFL-Lab/SimFL-Lab.github.io/blob/main/assets/files/Hong_CurriculumVitae.2021.v2.pdf)
 
 ## Students
 
