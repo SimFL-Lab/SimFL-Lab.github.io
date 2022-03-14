@@ -45,7 +45,8 @@ LG Semiconductor Corporation, 1996-1999
 **Link**  
 [Google scholar](https://scholar.google.com/citations?user=pwppTPgAAAAJ&hl=ko) | 
 [Researhgate](https://www.researchgate.net/profile/Soondo-Hong) | 
-[LinkedIn](https://kr.linkedin.com/in/soondo-hong-67bb8ba0) 
+[LinkedIn](https://kr.linkedin.com/in/soondo-hong-67bb8ba0) |
+[CV](https://github.com/SimFL-Lab/SimFL-Lab.github.io/tree/main/assets/files/Hong_CurriculumVitae.2021.v2.pdf)
 
 ## Students
 
@@ -55,7 +56,7 @@ LG Semiconductor Corporation, 1996-1999
 >PhD Student (started in Fall 2019)  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation  
->E-mail:  
+>E-mail: [thlee4242@naver.com](mailto:thlee4242@naver.com)  
 > <br>
 > <br>
 > <br>
@@ -64,7 +65,7 @@ LG Semiconductor Corporation, 1996-1999
 >PhD Student (started in Fall 2021)  
 >Research Interest: Simulation optimization, Logistics systems  
 >OR applications: Simulation, Machine learning, Meta heuristics  
->E-mail: bonggwon.kang@gmail.com  
+>E-mail: [bonggwon.kang@gmail.com](mailto:bonggwon.kang@gmail.com)  
 > <br>
 > <br>
 > <br>
@@ -85,20 +86,12 @@ LG Semiconductor Corporation, 1996-1999
 >E-mail:  
 > <br>
 > <br>
->* __Boa Nam__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD student (started in Spring 2022)   
->Research Interest: Sustainability and Operations Management  
->OR applications: Optimization and simulation  
->E-mail:  
-> <br>
-> <br>
 >* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD student (started in Spring 2022)  
 >Research Interest: Analysis and Optimization of Material handling operations in Fabs  
 >OR applications: Simulation, Dispatching, Machine learning  
->E-mail:  
+>E-mail: [gwanguk.han@gmail.com](mailto:gwanguk.han@gmail.com)
 > <br>
 > <br>
 
@@ -108,7 +101,7 @@ LG Semiconductor Corporation, 1996-1999
 >MS Student (joined in Spring 2021)  
 >Research Interest: Order picking  
 >OR applications: Simulation and Optimization  
->Email: Hoyoung.kim@pusan.ac.kr
+>Email: [hoyoung.kim@pusan.ac.kr](mailto:hoyoung.kim@pusan.ac.kr)
 > <br>
 > <br>
 > <br>
@@ -119,8 +112,7 @@ LG Semiconductor Corporation, 1996-1999
 >MS Student (joined in Spring 2022)  
 >Research Interest: Order picking   
 >OR applications: Simulation and Optimization  
->E-mail: sag05017@pusan.ac.kr  
-> <br>
+>E-mail: [sag05017@pusan.ac.kr](mailto:sag05017@pusan.ac.kr)  
 > <br>
 > <br>
 > <br>
@@ -130,7 +122,7 @@ LG Semiconductor Corporation, 1996-1999
 >MS Student (joined in Spring 2022)  
 >Research Interest: Order Picking and Machine learning  
 >OR applications: Simulation Optimization, Machine learning  
->Email: jeongwon.park@pusan.ac.kr  
+>Email: [jeongwon.park@pusan.ac.kr](mailto:jeongwon.park@pusan.ac.kr)  
 > <br>
 > <br>
 > <br>
@@ -166,33 +158,15 @@ LG Semiconductor Corporation, 1996-1999
 
 ### Former Students
  
-__S. Kim__ Master Student (graduated in Spring 2020)  
-__V. Permata__ Master Student (graduated in Fall 2019)  
-__H. Noh__ Master Student (graduated in Spring 2019)   
-__J. Lee__ Master Student (graduated in Fall 2018)  
-__B. Kim__ Master Student (graduated in Fall 2018)  
-__Y. Henokh__ Master Student (graduated in Spring 2018)  
-__J. Kim__ Master Student (graduated in Fall 2018)  
-__T. Nguyen__ Master Student (graduated in 2018)  
-__B. Nam__ Master Student (graduated in 2017)  
-__D. Sofyan__ Master Student (graduated in 2017)  
-__J. Lee__ Undergraduate (2020~2021)  
-__Y. Wei__ Undergraduate (2020~2021)  
-__W. Shin__ Undergraduate (2018~2020)  
-__S. Jong__ Undergraduate (2017~2019)  
-__S. Jeong__ Undergraduate (2017~2019)  
-__M. Kwon__ Undergraduate (2015~2016)  
-__J. Lee__ Undergraduate (2016)  
-__H. Tak__ Undergraduate (2015~2016)  
-__Y. Min__ Undergraduate (2015~2016)  
-__H. You__ Undergraduate (2015)  
-__J. Kim__ Undergraduate (2014~2015)  
-__H. Jeong__ Undergraduate (2014~2015)  
-__N. Kim__ Undergraduate (2014~2015)  
-__J. Kim__ Undergraduate (2015)  
-__S. Kim__ Undergraduate (2015)  
-__E. Kim__ Undergraduate (2015)  
-__M. Cho__ Undergraduate (2015)  
-__J. Choi__ Undergraduate (2015~2016)   
-
+__Seongpil Kim__ Master Student (graduated in 2020)  
+__Permata Vallentino Eko Joatiko__ Master Student (graduated in 2019)  
+__Hoyoung Roh__ Master Student (graduated in 2019)   
+__Jeongman Lee__ Master Student (graduated in 2018)  
+__Bosung Kim__ Master Student (graduated in 2018)  
+__Henokh Yernias Fibrianto__ Master Student (graduated in 2018)  
+__Jihyeon Kim__ Master Student (graduated in 2018)  
+__Nguyen Thuy Mo__ Master Student (graduated in 2018)  
+__Boa Nam__ Master Student (graduated in 2017)  
+__Sofyan Dwi Cahyo__ Master Student (graduated in 2017)  
+__Jeonghwan Kim__ Master student (graduated in 2017)
 

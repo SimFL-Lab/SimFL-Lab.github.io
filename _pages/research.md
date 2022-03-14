@@ -127,9 +127,9 @@ layout: single
 
 ## Project
 
-11. 자원순환(재제조)산업 고도화 인력양성(2021.04~2025.12, Korea Energy Technology Evaluation and Planning, PI, 200,000 k won/year
+11. Human Resource Development Project in Circular Remanufacturing Industry: SCM section (2021.4~2025.12, Korea Energy Technology Evaluation and Planning, PI)
 
-10. A self-balancing twin-mobility and its optimization for smart logistics and facilities(2020.03~2025.02, Korea Research Foundation, Ministry of Science, ICT and Future Planning, PI, 150,000 k won/year)
+10. A self-balancing twin-mobility and its optimization for smart logistics and facilities(2020.03~2025.02, Korea Research Foundation, Ministry of Science, ICT and Future Planning, PI)
 
 9. A conveyor-based order assorting system and its economic value (2020.04~2020.11, Korea Railroad Research Institute, PI)
 
