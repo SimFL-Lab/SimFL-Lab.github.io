@@ -46,7 +46,7 @@ LG Semiconductor Corporation, 1996-1999
 [Google scholar](https://scholar.google.com/citations?user=pwppTPgAAAAJ&hl=ko) | 
 [Researhgate](https://www.researchgate.net/profile/Soondo-Hong) | 
 [LinkedIn](https://kr.linkedin.com/in/soondo-hong-67bb8ba0) |
-[CV](https://nbviewer.org/github/SimFL-Lab/SimFL-Lab.github.io/blob/main/assets/files/Hong_CurriculumVitae.2021.v2.pdf)
+[CV](https://nbviewer.org/github/SimFL-Lab/SimFL-Lab.github.io/blob/main/assets/files/Hong_CurriculumVitae.2022.v1.pdf)
 
 ## Students
 
@@ -88,7 +88,7 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 >* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD student (PhD Spring 2022~)  
+>PhD student (MS 2019~2021 PhD Spring 2022~)  
 >Research Interest: Analysis and Optimization of Material handling operations in Fabs  
 >OR applications: Simulation, Dispatching, Machine learning  
 >Teaching assistance (Facilities planning & material handling systems)  
@@ -102,8 +102,8 @@ LG Semiconductor Corporation, 1996-1999
 >MS Student (MS Spring 2021~)  
 >Research Interest: Order picking  
 >OR applications: Simulation and Optimization  
+>Teaching assistance (Simulation, Engineering economy)  
 >Email: [hoyoung.kim@pusan.ac.kr](mailto:hoyoung.kim@pusan.ac.kr)
-> <br>
 > <br>
 > <br>
 > <br>
