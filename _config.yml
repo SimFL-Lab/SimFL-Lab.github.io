@@ -292,8 +292,8 @@ defaults:
       share: true
       related: true
       show_date: true
-      header:
-        image: /assets/images/SimFL_logo.jpg
+      # header:
+      #   image: /assets/images/SimFL_logo.jpg
 
   # _pages                      
   - scope:
