@@ -55,6 +55,7 @@ git pull --rebase (remote repository nickname) master
 * /_sass/minimal-mistakes/_sidebar.scss ***and*** /_layouts/default.html (back to top button, [reference](https://masunii.github.io/blog_custom/top_button/))
 * /_includes/head/custom.html (favicon, [reference](https://danggai.github.io/github.io/Github.io-%ED%8C%8C%EB%B9%84%EC%BD%98-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0/))
 * /_sass/minimal-mistakes/_masthead.scss (menu bar font, [reference](https://devinlife.com/howto%20github%20pages/github-pages-settings/))
+* /_layouts/home (recent posts 'list' -> 'grid' ({% assign entries_layout = page.entries_layout | default: 'grid' %}) )
 
 ### - For updating page
 > * Home  
