@@ -72,10 +72,10 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 >* __Tran Vo Thao Huong__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (PhD Fall 2022~)  
+>PhD Student (PhD Fall 2021~)  
 >Research Interest: Logistics systems, Order picking  
 >OR applications: Simulation, Machine learning, Large-scale optimization  
->E-mail:  
+>E-mail: thaohuongtranvo@gmail.com   
 > <br>
 > <br>
 >* __Juho Lee__  

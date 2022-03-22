@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "SimFL-Lab"
 title_separator          : "-"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "PNU IE" # site tagline that appears below site title in masthead
 name                     : "SimFL Lab"
 description              : "The Simulation & Facility Logistics Lab."
 url                      : "https://simfl-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
