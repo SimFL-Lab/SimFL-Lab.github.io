@@ -148,14 +148,6 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 
 ### Undergraduate Students
->* __Sangil Kang__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Summer 2021)  
->Research Interest: Simulation and Machine learning in Material handling  
->E-mail:  
-> <br>
-> <br>
-> <br>
 >* __Seonghyun Lim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2022)  
