@@ -9,9 +9,9 @@ layout: single
 ## Publication
 
 ### 2022 
-[1] T Lee, J Lee, S Hong. "Batch Assorting for Worker-following Assortment Carts in Parallel-aisle Order-assorting Systems," IEEE Access (Accepted) (2022)
+[1] Taehoon Lee, Jeongman Lee, Soondo Hong, "Batch Assorting for Worker-following Assortment Carts in Parallel-aisle Order-assorting Systems," IEEE Access (Accepted) (2022)
 
-[2] T Lee, J Lee, S Hong. "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," KOREA LOGISTICS REVIEW, Vol.32, No.2(April 2022), pp.1-10 (Accepted)
+[2] Taehoon Lee, Jeongman Lee, Soondo Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," KOREA LOGISTICS REVIEW, Vol.32, No.2(April 2022), pp.1-10 (Accepted)
 
 
 ### 2021
@@ -131,7 +131,7 @@ layout: single
 
 [2] J. Lee, Y. Kim and S. Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
 
-[3] J Park, HY Fibrianto, S Hong "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022 (Accepted)
+[3] Jeongwon Park, H. Y. Fibrianto, Soondo Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022 (Accepted)
 
 ## Project
 
