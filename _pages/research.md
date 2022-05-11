@@ -8,8 +8,14 @@ layout: single
 ---
 ## Publication
 
+### 2022 
+[1] T Lee, J Lee, S Hong. "Batch Assorting for Worker-following Assortment Carts in Parallel-aisle Order-assorting Systems," IEEE Access (Accepted) (2022)
+
+[2] T Lee, J Lee, S Hong. "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," KOREA LOGISTICS REVIEW, Vol.32, No.2(April 2022), pp.1-10 (Accepted)
+
+
 ### 2021
-[1] J Kim and S Hong, "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, (Accepted) (2021))  
+[1] J Kim and S Hong, "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, (Accepted) (2021)  
 
 [2] Taehoon Lee, Young-Joo Kim, Jihyun Lee, Soondo Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts", Korean Journal of Logistics,29, no.3 (2021) : 69-78.doi: 10.15735/kls.2021.29.3.006
 
@@ -124,6 +130,8 @@ layout: single
 [1] Bosung Kim, Henokh Yernias Fibrianto, Soondo Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
 
 [2] J. Lee, Y. Kim and S. Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
+
+[3] J Park, HY Fibrianto, S Hong "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022 (Accepted)
 
 ## Project
 
