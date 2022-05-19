@@ -14,7 +14,7 @@ tags:
 
 last_modified_at: 2022-05-11
 ---
-<img align="center" width="2000" height="2000" style="border: 1px solid white" src="https://simfl-lab.github.io/assets/files/OBZ_poster.jpg"> 
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/files/OBZ_poster.jpg"> 
 
 # Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance
 
