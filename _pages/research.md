@@ -9,15 +9,14 @@ layout: single
 ## Publication
 
 ### 2022 
-[1] Taehoon Lee, Jeongman Lee, Soondo Hong, "Batch Assorting for Worker-following Assortment Carts in Parallel-aisle Order-assorting Systems," IEEE Access (Accepted) (2022)
+[1] Jeonghwan Kim & Soondo Hong (2022) A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane, Journal of the Operational Research Society, 73:5, 1155-1166, DOI: 10.1080/01605682.2021.1892462  
 
-[2] Taehoon Lee, Jeongman Lee, Soondo Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," KOREA LOGISTICS REVIEW, Vol.32, No.2(April 2022), pp.1-10 (Accepted)
+[2] Taehoon Lee, Jeongman Lee, Soondo Hong, "Batch Assorting for Worker-Following Assortment Carts in Parallel-Aisle Order-Assorting Systems," IEEE Access, vol. 10, pp. 44159-44169, 2022, doi: 10.1109/ACCESS.2022.3169181.
 
+[3] Taehoon Lee, Young-joo Kim, Soondo Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," KOREA LOGISTICS REVIEW, Vol.32, No.2 (2022), pp.1-10
 
 ### 2021
-[1] J Kim and S Hong, "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, (Accepted) (2021)  
-
-[2] Taehoon Lee, Young-Joo Kim, Jihyun Lee, Soondo Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts", Korean Journal of Logistics,29, no.3 (2021) : 69-78.doi: 10.15735/kls.2021.29.3.006
+[1] Taehoon Lee, Young-Joo Kim, Jihyun Lee, Soondo Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts", Korean Journal of Logistics,29, no.3 (2021) : 69-78.doi: 10.15735/kls.2021.29.3.006
 
 ### 2020
 
