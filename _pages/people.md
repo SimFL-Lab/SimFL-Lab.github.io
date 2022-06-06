@@ -77,7 +77,7 @@ LG Semiconductor Corporation, 1996-1999
 >PhD Student (PhD Fall 2021~)  
 >Research Interest: Logistics systems, Order picking  
 >OR applications: Simulation, Machine learning, Large-scale optimization  
->E-mail: thaohuongtranvo@gmail.com   
+>E-mail: [thaohuongtranvo@gmail.com](mailto:thaohuongtranvo@gmail.com)   
 > <br>
 > <br>
 >* __Juho Lee__  
@@ -85,7 +85,7 @@ LG Semiconductor Corporation, 1996-1999
 >PhD Student (PhD Spring 2021~)  
 >Research Interest:  Optimization and Simulation in Manufacturing Area, Machine Learning  
 >OR applications: Simulation, Machine learning  
->E-mail: ysise99@pusan.ac.kr   
+>E-mail: [ysise99@pusan.ac.kr](mailto:ysise99@pusan.ac.kr)  
 > <br>
 > <br>
 >* __Gwanguk Han__  
@@ -98,7 +98,7 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 
-### Master Students
+### Master's Students
 >* __Hoyoung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Hoyoung_Kim.jpg">
 >MS Student (MS Spring 2021~)  
