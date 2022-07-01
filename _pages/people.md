@@ -52,7 +52,7 @@ LG Semiconductor Corporation, 1996-1999
 
 ## Students
 
-### Ph.D Students
+### Ph.D candidates
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Student (MS 2018~2019, PhD Fall 2019~)  
