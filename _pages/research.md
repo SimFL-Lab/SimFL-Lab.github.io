@@ -11,9 +11,9 @@ layout: single
 ### 2022 
 [9] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Korea IIE, (2022, Accepted)
 
-[8] G Lee, G Han, G Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow ship with rework process,” The Korea Journal of Bigdata, (2022, Accepted)
+[8] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow ship with rework process,” The Korea Journal of Bigdata, (2022, Accepted)
 
-[7] H Kim, T Lee, G Kang, JS Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, (2022, Accepted)
+[7] H Kim, T Lee, B Kang, JS Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, (2022, Accepted)
 
 [6] T Tran-vo, T Nguyen, S Hong, 2022. “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, (2022, Accepted)
 
