@@ -9,17 +9,17 @@ layout: single
 ## Publication
 
 ### 2022 
-[1] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Korea IIE, (2022, Accepted)
+[1] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Journal of the Korean Institute of Industrial Engineers, Accepted, (2022)
 
-[2] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow ship with rework process,” The Korea Journal of Bigdata, (2022, Accepted)
+[2] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow ship with rework process,” The Korea Journal of Bigdata, Accepted, (2022)
 
-[3] H Kim, T Lee, B Kang, JS Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, (2022, Accepted)
+[3] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, Accepted, (2022)
 
-[4] T Tran-vo, T Nguyen, S Hong, 2022. “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, (2022, Accepted)
+[4] T Tran-vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, Accepted, (2022)
 
-[5] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, (2022, Accepted)
+[5] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, Accepted, (2022)
 
-[6] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system,” IFIP International Conference on Advances in Production Management Systems, (2022, Accepted)
+[6] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system,” IFIP International Conference on Advances in Production Management Systems, Accepted, (2022)
 
 [7] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10, (2022)
 
@@ -42,7 +42,7 @@ layout: single
 
 [5] HY Fibrianto, B Kang, S Hong, "A Job Sequencing Problem of an Overhead Shuttle Crane in a Rail-Based Automated Container Terminal," IEEE Access, 8, 156362-156377 (2020)
 
-[6] HY Fibrianto, B Kang, Bosung Kim, Annika Marbach, Tobias Buer, H. Haasis, S Hong, Kap-Hwan Kim, "A Simulation Study of a Storage Policy for a Container Terminal", Lecture notes in logistics, Springer International Publishing, 2020-05
+[6] HY Fibrianto, B Kang, Bosung Kim, Annika Marbach, Tobias Buer, H. Haasis, S Hong, Kap-Hwan Kim, "A Simulation Study of a Storage Policy for a Container Terminal", Lecture notes in logistics, Springer International Publishing, (2020)
 
 ### 2019
 
@@ -108,7 +108,7 @@ layout: single
 
 ### 2013
 
-[1] S Hong, Andrew L. Johnson, and Brett A. Peters, “ A note on picker blocking models in a parallel-aisle order picking system ”, IIE Transactions , 45(12), 1345-1355 (2013)
+[1] S Hong, AL Johnson, and BA Peters, “ A note on picker blocking models in a parallel-aisle order picking system ”, IIE Transactions , 45(12), 1345-1355 (2013)
 
 [2] M Ha , S Hong , and W Li, “Predicting the probability of H3K4me3 occupation at a base-pair from the genome sequence context”,Bioinformatics, 29(8), 1199-1205 (2013)
 
@@ -116,11 +116,11 @@ layout: single
 
 ### 2012
 
-[1] S Hong, Andrew L. Johnson, and Brett A. Peters, “Batch picking in narrow-aisle order picking systems with consideration for picker blocking”, European Journal of Operational Research, 221(3), 557-570 (2012)
+[1] S Hong, AL Johnson, and BA Peters, “Batch picking in narrow-aisle order picking systems with consideration for picker blocking”, European Journal of Operational Research, 221(3), 557-570 (2012)
 
-[2] S Hong, Andrew L. Johnson, and Brett A. Peters, “Large-scale order batching in parallel-aisle picking systems ”, IIE Transactions, 44(2), 88-106 (2012)
+[2] S Hong, AL Johnson, and BA Peters, “Large-scale order batching in parallel-aisle picking systems ”, IIE Transactions, 44(2), 88-106 (2012)
 
-[3] S Hong and Amarnath Banerjee, “A large-scale distributed decision-making procedure for a single-machine scheduling problem”, International Journal of Production Research, 50(20), 5795-5808 (2012)
+[3] S Hong and A Banerjee, “A large-scale distributed decision-making procedure for a single-machine scheduling problem”, International Journal of Production Research, 50(20), 5795-5808 (2012)
 
  
 
@@ -132,9 +132,9 @@ layout: single
 
 ### ~2010
 
-[1] Kyoun-su Seo, Mi-ok Joh, Young-in Choi, S Hong, and Bum-seok Oh, “Analysis of turbo pump liquid propulsion system for a space launch vehicle”, Journal of Korea Aerospace Research Institute : Aerospace Engineering and Technology , 2(1), 151-157 (2003)
+[1] K Seo, M Joh, Y Choi, S Hong, and B Oh, “Analysis of turbo pump liquid propulsion system for a space launch vehicle”, Journal of Korea Aerospace Research Institute : Aerospace Engineering and Technology , 2(1), 151-157 (2003)
 
-[2] S Hong, Hyunbo Cho, and Mooyoung Jung , “Development of heterarchical shop-floor control system execution m odule u sing E-Net”, Journal of Korean Institute of Industrial Engineers , 25(1), 87-99 (1999)
+[2] S Hong, H Cho, and M Jung , “Development of heterarchical shop-floor control system execution m odule u sing E-Net”, Journal of Korean Institute of Industrial Engineers , 25(1), 87-99 (1999)
 
 ## Peer-reviewed conference articles and Book chapters
 
