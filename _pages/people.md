@@ -131,7 +131,7 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 >* __Jungtae Park__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Jeongtae_Park.jpg">
 >MS Student (MS Spring 2022~)  
 >Research Interest: Material handling  
 >OR applications: Simulation and Optimization  

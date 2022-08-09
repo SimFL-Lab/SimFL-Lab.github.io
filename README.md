@@ -93,3 +93,4 @@ jekyll serve
 [[Github 블로그] utterances 으로 댓글 기능 만들기](https://ansohxxn.github.io/blog/utterances/)
 ### English
 [W3 schools - HTML](https://www.w3schools.com/html/default.asp)
+[nbviewer (pdf url)](https://nbviewer.org/)
