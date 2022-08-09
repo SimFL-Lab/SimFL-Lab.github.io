@@ -138,6 +138,8 @@ LG Semiconductor Corporation, 1996-1999
 >Teaching assistance (Facilities planning & material handling systems)  
 >E-mail: [pjt6441@pusan.ac.kr](mailto:pjt6441@pusan.ac.kr)  
 > <br>
+> <br>
+> <br>
 >* __Rosi Ana Rahmawati__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2022~)  
