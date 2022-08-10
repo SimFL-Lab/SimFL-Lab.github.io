@@ -1,7 +1,7 @@
 ---
 title:  "Average flow time estimation and its application for storage relocation in an order picking system"
 header:
-    teaser: "/assets/files/ZoneGP(APMS)_poster.jpg"
+    teaser: "/assets/files/ZoneGP(APMS)_poster.JPG"
 excerpt: "This study proposes flow time estimation model to optimize the storage location assignment. "
 author: "Jeongwon Park"
 categories:
@@ -15,7 +15,7 @@ tags:
 
 last_modified_at: 2022-08-09
 ---
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/files/ZoneGP(APMS)_poster.jpg"> 
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/files/ZoneGP(APMS)_poster.JPG">assets/files/ZoneGP(APMS)_poster.JPG 
 
 # Average flow time estimation and its application for storage relocation in an order picking system
 
