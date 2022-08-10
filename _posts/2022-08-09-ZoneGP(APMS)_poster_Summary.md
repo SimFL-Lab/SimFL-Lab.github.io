@@ -15,7 +15,7 @@ tags:
 
 last_modified_at: 2022-08-09
 ---
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/files/ZoneGP(APMS)_poster.JPG">assets/files/ZoneGP(APMS)_poster.JPG 
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/files/ZoneGP(APMS)_poster.JPG">
 
 # Average flow time estimation and its application for storage relocation in an order picking system
 
@@ -23,4 +23,9 @@ last_modified_at: 2022-08-09
 
 - This study proposes flow time estimation model to optimize the storage location assignment. 
 - The proposed model reduces the order flow time and mitigates workload imbalances between zones.
+
+**[Simulation Demo video]**
+<video width="100%" height="100%" autoplay controls loop muted>
+  <source src="/assets/videos/ZoneGP.mp4" type="video/mp4" >
+</video>
 
