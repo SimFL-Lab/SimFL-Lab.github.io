@@ -1,0 +1,22 @@
+---
+title:  "Yard Template Planning in a Transshipment Hub using Gaussian Process Regression"
+header:
+    teaser: "/assets/files/YardPlanGP(WSC)_poster.JPG"
+excerpt: "This study suggests a ML algorithm to determine the efficient yard templates under vehicle congestion."
+author: "Jeongwon Park"
+categories:
+  - Paper summary
+tags:
+  - Yard Template Planning
+  - Gaussian Process
+
+last_modified_at: 2022-09-02
+---
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/files/YardPlanGP(WSC)_poster.JPG">
+
+# Yard Template Planning in a Transshipment Hub using Gaussian Process Regression
+
+### Author: Bonggwon Kang, Permata Vallentino Eko Joatiko, Jungtae Park, Soondo Hong
+
+- This study suggests a ML algorithm to determine the efficient yard templates under vehicle congestion.
+

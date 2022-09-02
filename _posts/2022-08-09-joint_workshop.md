@@ -2,7 +2,7 @@
 title:  "PNU-Postech-FSU joint workshop"
 header:
     teaser: "/assets/images/Joint_Workshop_0802/JointWorkshop(0802)_Group.jpg"
-excerpt: "3 papers from simfl lab were accepted at APMS conference"
+excerpt: "PNU-Postech-FSU joint workshop was held at Postech on August 2 - 3, 2022."
 author: "Jeongwon Park"
 categories:
   - Workshop
