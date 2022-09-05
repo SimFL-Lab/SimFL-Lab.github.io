@@ -1,5 +1,5 @@
 ---
-title:  "2022 SimFL Lab & LG CNS Enture exchange meeting"
+title:  "SimFL Lab & LG CNS Enture exchange meeting (2022.08.19)"
 header:
     teaser: "/assets/images/20220819_CNS.jpg"
 excerpt: "2022 SimFL Lab & LG CNS Enture exchange meeting was held at PNU on August 19, 2022."
