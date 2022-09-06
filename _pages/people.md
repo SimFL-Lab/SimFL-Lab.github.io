@@ -89,12 +89,14 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 > <br>
 >* __Gwanguk Han__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+><img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Gwanguk_Han.jpg">
 >PhD student (MS 2019~2021, PhD Spring 2022~)  
 >Research Interest: Analysis and Optimization of Material handling operations in Fabs  
 >OR applications: Simulation, Dispatching, Machine learning  
 >Teaching assistance (Facilities planning & material handling systems)  
 >E-mail: [gwanguk.han@gmail.com](mailto:gwanguk.han@gmail.com)
+> <br>
+> <br>
 > <br>
 > <br>
 
@@ -164,25 +166,25 @@ LG Semiconductor Corporation, 1996-1999
 ### Former Students
  
 >__Seongpil Kim__   
->Master Student (graduated in 2020)  
+>MS Student (graduated in 2020)  
 >__Permata Vallentino Eko Joatiko__   
->Master Student (graduated in 2019)  
+>MS Student (graduated in 2019)  
 >__Hoyoung Roh__   
->Master Student (graduated in 2019)   
+>MS Student (graduated in 2019)   
 __Jeongman Lee__   
-Master Student (graduated in 2018)  
+MS Student (graduated in 2018)  
 __Bosung Kim__   
-Master Student (graduated in 2018)  
+MS Student (graduated in 2018)  
 __Henokh Yernias Fibrianto__   
-Master Student (graduated in 2018)  
+MS Student (graduated in 2018)  
 __Jihyeon Kim__   
-Master Student (graduated in 2018)  
+MS Student (graduated in 2018)  
 __Nguyen Thuy Mo__   
-Master Student (graduated in 2018)  
+MS Student (graduated in 2018)  
 __Boa Nam__   
-Master Student (graduated in 2017)  
+MS Student (graduated in 2017)  
 __Sofyan Dwi Cahyo__   
-Master Student (graduated in 2017)  
+MS Student (graduated in 2017)  
 __Jeonghwan Kim__   
-Master student (graduated in 2017)
+MS student (graduated in 2017)
 
