@@ -9,7 +9,7 @@ categories:
 tags:
   - Workshop
   - Achievement
-last_modified_at: 2022-09-02
+last_modified_at: 2022-09-06
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/20220817_SD.jpg"> 
 

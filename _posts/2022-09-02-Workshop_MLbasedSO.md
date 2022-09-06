@@ -1,5 +1,5 @@
 ---
-title:  "ML-based Simulation optimization international joint research workshop (2022.08.09)"
+title:  "ML-based Simulation optimization international joint research workshop"
 header:
     teaser: "/assets/images/20220809_FSU.jpg"
 excerpt: "ML-based Simulation optimization international joint research workshop was held on August 9, 2022."
@@ -9,7 +9,7 @@ categories:
 tags:
   - Workshop
   - Achievement
-last_modified_at: 2022-09-02
+last_modified_at: 2022-09-06
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/20220809_FSU.jpg"> 
 
