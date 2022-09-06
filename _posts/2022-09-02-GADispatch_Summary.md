@@ -1,7 +1,7 @@
 ---
 title:  "A Simulation-based Genetic Algorithm for a Dispatching Rule in a Flexible Flow Shop with Rework Process"
 header:
-    teaser: "https://simfl-lab.github.io/assets/files/WDR_poster.JPG"
+    teaser: "https://simfl-lab.github.io/assets/files/WDR_poster.jpg"
 excerpt: "This study investigates a dynamic flexible flow shop scheduling problem under uncertain rework operations for an automobile pipe production line."
 author: "Jeongwon Park"
 categories:
@@ -14,7 +14,7 @@ tags:
 
 last_modified_at: 2022-09-02
 ---
-<img align="center" width="900" height="900" style="border: 1px solid white" src="https://simfl-lab.github.io/assets/files/WDR_poster.JPG"> 
+<img align="center" width="900" height="900" style="border: 1px solid white" src="https://simfl-lab.github.io/assets/files/WDR_poster.jpg"> 
 
 # A Simulation-based Genetic Algorithm for a Dispatching Rule in a Flexible Flow Shop with Rework Process
 
