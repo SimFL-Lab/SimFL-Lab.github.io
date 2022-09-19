@@ -107,7 +107,7 @@ LG Semiconductor Corporation, 1996-1999
 >Research Interest: Order picking  
 >OR applications: Simulation and Optimization  
 >Teaching assistance (Simulation, Engineering economy)  
->Email: [hoyoung.kim@pusan.ac.kr](mailto:hoyoung.kim@pusan.ac.kr)
+>E-mail: [hoyoung.kim@pusan.ac.kr](mailto:hoyoung.kim@pusan.ac.kr)
 > <br>
 > <br>
 > <br>
@@ -128,7 +128,7 @@ LG Semiconductor Corporation, 1996-1999
 >Research Interest: Order Picking, Simulation, Statistical Machine learning  
 >OR applications: Simulation Optimization, Machine learning    
 >Teaching assistance (Engineering economy, Facilities planning & material handling systems)  
->Email: [jeongwon.park@pusan.ac.kr](mailto:jeongwon.park@pusan.ac.kr)
+>E-mail: [jeongwon.park@pusan.ac.kr](mailto:jeongwon.park@pusan.ac.kr)
 > <br>
 > <br>
 > <br>
@@ -148,6 +148,14 @@ LG Semiconductor Corporation, 1996-1999
 >Research Interest: Order Picking and Machine learning  
 >OR applications: Simulation Optimization, Machine learning  
 >E-mail:  
+> <br>
+> <br>
+>* __Jean Marne Gutierrez__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Fall 2022~)  
+>Research Interest: Material Handling  
+>OR applications: Simulation and Optimization  
+>E-mail: [jeanmarneg@pusan.ac.kr](mailto:jeanmarneg@pusan.ac.kr)
 > <br>
 > <br>
 
