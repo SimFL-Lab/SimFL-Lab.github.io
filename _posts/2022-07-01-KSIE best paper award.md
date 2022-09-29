@@ -2,7 +2,7 @@
 title:  "Gwanguk Han won an Outstanding Research Award from KSIE"
 header:
     teaser: "/assets/images/KSIE_bestpaperaward_Han.jpg"
-excerpt: "3 papers from simfl lab were accepted at APMS conference"
+excerpt: "SimFL Lab’s Ph.D. Candidate Gwanguk Han won an Outstanding Research Award from KSIE."
 author: "Jeongwon Park"
 categories:
   - achievement

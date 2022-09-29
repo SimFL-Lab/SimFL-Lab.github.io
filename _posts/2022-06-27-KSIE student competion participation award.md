@@ -1,13 +1,13 @@
 ---
-title:  "KSIE student competion Bronze award"
+title:  "KSIE student competition Bronze award"
 header:
     teaser: "/assets/images/20th_student_project_competition_Participation_Award1.jpg"
 excerpt: "SimFL lab's undergraduate students won a KSIE student's project competition."
 author: "Jeongwon Park"
 categories:
-  - achievement
+  - Achievement
 tags:
-  - achievement
+  - Achievement
 last_modified_at: 2022-06-06
 ---
 <img align="center" width="1000" height="1000" style="border: 1px solid white" src="/assets/images/20th_student_project_competition_Participation_Award3.jpg">

@@ -1,9 +1,9 @@
 ---
-title:  "ML-based Simulation optimization international joint research workshop"
+title:  "ML-based Simulation optimization international joint research workshop (2022.08.09)"
 header:
     teaser: "/assets/images/20220809_FSU.jpg"
 excerpt: "ML-based Simulation optimization international joint research workshop was held on August 9, 2022."
-author: "Jeongwon Park"
+author: "Jeongwon Park, Rahmawati Rosi Ana"
 categories:
   - Workshop
 tags:

@@ -15,11 +15,11 @@ layout: single
 
 [3] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, 7(1), 99-111, (2022)
 
-[4] T Tran-vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, Accepted, (2022)
+[4] T Tran-vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, 663, 310-318, (2022)
 
-[5] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, Accepted, (2022)
+[5] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, 663, 285-292, (2022)
 
-[6] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system,” IFIP International Conference on Advances in Production Management Systems, Accepted, (2022)
+[6] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system,” IFIP International Conference on Advances in Production Management Systems, 663, 60-66, (2022)
 
 [7] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10, (2022)
 
