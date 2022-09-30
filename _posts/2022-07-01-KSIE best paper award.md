@@ -5,10 +5,10 @@ header:
 excerpt: "SimFL Lab’s Ph.D. Candidate Gwanguk Han won an Outstanding Research Award from KSIE."
 author: "Jeongwon Park"
 categories:
-  - achievement
-  - conference
+  - Achievement
+  - Conference
 tags:
-  - achievement
+  - Achievement
   - KSIE
 last_modified_at: 2022-07-01
 ---

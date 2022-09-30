@@ -46,7 +46,7 @@ LG Semiconductor Corporation, 1996-1999
 
 **Link**  
 [Google scholar](https://scholar.google.com/citations?user=pwppTPgAAAAJ&hl=ko) | 
-[Researhgate](https://www.researchgate.net/profile/Soondo-Hong) | 
+[Researchgate](https://www.researchgate.net/profile/Soondo-Hong) | 
 [LinkedIn](https://kr.linkedin.com/in/soondo-hong-67bb8ba0) |
 [CV](https://nbviewer.org/github/SimFL-Lab/SimFL-Lab.github.io/blob/main/assets/files/Hong_CurriculumVitae.2022.v2.pdf)
 
@@ -68,7 +68,8 @@ LG Semiconductor Corporation, 1996-1999
 >Research Interest: Simulation modeling and analysis, Simulation-based optimization  
 >OR applications: Simulation, Machine learning, Meta heuristics  
 >Teaching assistance (Simulation, Facilities planning & material handling systems)  
->E-mail: [bonggwon.kang@gmail.com](mailto:bonggwon.kang@gmail.com)  
+>E-mail: [bonggwon.kang@gmail.com](mailto:bonggwon.kang@gmail.com)   
+>Additional Information: [https://sites.google.com/view/bonggwon-kang](https://sites.google.com/view/bonggwon-kang)
 > <br>
 > <br>
 > <br>
@@ -139,15 +140,16 @@ LG Semiconductor Corporation, 1996-1999
 >OR applications: Simulation and Optimization  
 >Teaching assistance (Facilities planning & material handling systems)  
 >E-mail: [pjt6441@pusan.ac.kr](mailto:pjt6441@pusan.ac.kr)  
-> <br>
-> <br>
-> <br>
+> <br>  
+> <br>  
 >* __Rosi Ana Rahmawati__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2022~)  
->Research Interest: Order Picking and Machine learning  
->OR applications: Simulation Optimization, Machine learning  
->E-mail:  
+>Research Interest: Order Picking   
+>OR applications: Simulation Optimization, Heuristics  
+>E-mail: [rosianarahma@pusan.ac.kr](mailto:rosianarahma@pusan.ac.kr)
+> <br>
+> <br>
 > <br>
 > <br>
 >* __Jean Marne Gutierrez__  
