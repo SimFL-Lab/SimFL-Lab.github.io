@@ -17,17 +17,11 @@ layout: single
 
 [4] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, 7(1), 99-111, (2022)
 
-[5] T Tran-vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, 663, 310-318, (2022)
+[5] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10, (2022)
 
-[6] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, 663, 285-292, (2022)
+[6] T Lee, J Lee, S Hong, "Batch Assorting for Worker-Following Assortment Carts in Parallel-Aisle Order-Assorting Systems," IEEE Access, 10, 44159-44169, (2022)
 
-[7] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system,” IFIP International Conference on Advances in Production Management Systems, 663, 60-66, (2022)
-
-[8] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10, (2022)
-
-[9] T Lee, J Lee, S Hong, "Batch Assorting for Worker-Following Assortment Carts in Parallel-Aisle Order-Assorting Systems," IEEE Access, 10, 44159-44169, (2022)
-
-[10] J Kim and S Hong "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane, Journal of the Operational Research Society", 73(5), 1155-1166, (2022)
+[7] J Kim and S Hong "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane, Journal of the Operational Research Society", 73(5), 1155-1166, (2022)
 
 ### 2021
 [1] T Lee, Y Kim, Jihyun Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts", Korean Journal of Logistics, 29(3), 69-78, (2021)
@@ -142,11 +136,17 @@ layout: single
 
 [1] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022, Accepted
 
-[2] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regressor", Proceedings of the 2022 Winter Simulation Conference, Accepted
+[2] T Tran-vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, 663, 310-318, (2022)
 
-[3] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
+[3] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, 663, 285-292, (2022)
 
-[4] J Lee, Y Kim and S Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
+[4] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system,” IFIP International Conference on Advances in Production Management Systems, 663, 60-66, (2022)  
+
+[5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regressor", Proceedings of the 2022 Winter Simulation Conference, Accepted
+
+[6] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
+
+[7] J Lee, Y Kim and S Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
 
 
 
