@@ -136,7 +136,7 @@ layout: single
 
 [1] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022, Accepted
 
-[2] T Tran-vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, 663, 310-318, (2022)
+[2] TH Tran-Vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems,” IFIP International Conference on Advances in Production Management Systems, 663, 310-318, (2022)
 
 [3] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, 663, 285-292, (2022)
 
