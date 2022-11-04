@@ -129,8 +129,8 @@ LG Semiconductor Corporation, 1996-1999
 >Research Interest: Order Picking, Simulation, Statistical Machine learning  
 >OR applications: Simulation Optimization, Machine learning    
 >Teaching assistance (Engineering economy, Facilities planning & material handling systems)  
->E-mail: [jeongwon.park@pusan.ac.kr](mailto:jeongwon.park@pusan.ac.kr)
-> <br>
+>E-mail: [jeongwon.park@pusan.ac.kr](mailto:jeongwon.park@pusan.ac.kr)  
+>[Personal website](https://parkgarden.github.io/)
 > <br>
 > <br>
 >* __Jungtae Park__  
