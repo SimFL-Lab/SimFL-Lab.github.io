@@ -142,7 +142,7 @@ layout: single
 
 [4] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022, Accepted
 
-[5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regressor", Proceedings of the 2022 Winter Simulation Conference, Accepted
+[5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regression", Proceedings of the 2022 Winter Simulation Conference, 1979-1989, 2022.
 
 [6] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
 

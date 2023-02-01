@@ -53,6 +53,15 @@ LG Semiconductor Corporation, 1996-1999
 ## Students
 
 ### Ph.D. students
+>* __Bosung Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD candidate (MS 2017~2019, PhD Fall 2019~)  
+>Research Interest: Analysis and Scheduling of Twin-mobility System  
+>OR applications: Optimization, Simulation, Meta heuristics   
+>Teaching assistance (Facilities planning & material handling systems)  
+>E-mail: [ksung505@gmail.com](mailto:ksung505@gmail.com)
+> <br>
+> <br>
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD candidate (MS 2018~2019, PhD Fall 2019~)  
@@ -102,17 +111,6 @@ LG Semiconductor Corporation, 1996-1999
 > <br>
 
 ### Master's Students
->* __Hoyoung Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Hoyoung_Kim.jpg">
->MS Student (MS Spring 2021~)  
->Research Interest: Order picking  
->OR applications: Simulation and Optimization  
->Teaching assistance (Simulation, Engineering economy)  
->E-mail: [hoyoung.kim@pusan.ac.kr](mailto:hoyoung.kim@pusan.ac.kr)
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
 >MS Student (MS Spring 2022~)  
@@ -160,6 +158,16 @@ LG Semiconductor Corporation, 1996-1999
 >E-mail: [jeanmarneg@pusan.ac.kr](mailto:jeanmarneg@pusan.ac.kr)
 > <br>
 > <br>
+> <br>
+> <br>
+>* __Hyunjung Yoon__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Spring 2023~)  
+>Research Interest: Analysis and Optimization  
+>OR applications: Simulation   
+>E-mail: [hyunj0102@pusan.ac.kr](mailto:hyunj0102@pusan.ac.kr)
+> <br>
+> <br>
 
 ### Undergraduate Students
 >* __Seonghyun Lim__  
@@ -175,6 +183,8 @@ LG Semiconductor Corporation, 1996-1999
 
 ### Former Students
  
+>__Hoyoung Kim__   
+>MS Student (graduated in 2023)   
 >__Seongpil Kim__   
 >MS Student (graduated in 2020)  
 >__Permata Vallentino Eko Joatiko__   
