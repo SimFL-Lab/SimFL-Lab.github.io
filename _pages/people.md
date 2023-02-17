@@ -144,7 +144,7 @@ LG Semiconductor Corporation, 1996-1999
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2022~)  
 >Research Interest: Order Picking   
->OR applications: Simulation Optimization, Heuristics  
+>OR applications: Simulation Optimization, Heuristics, Machine Learning  
 >E-mail: [rosianarahma@pusan.ac.kr](mailto:rosianarahma@pusan.ac.kr)
 > <br>
 > <br>

@@ -11,7 +11,7 @@ layout: single
 ### 2022 
 [1] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems", Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
 
-[2] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Journal of the Korean Institute of Industrial Engineers, Accepted, (2022)
+[2] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Journal of the Korean Institute of Industrial Engineers, 48(5), 477-485, (2022)
 
 [3] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow shop with rework process,” The Korea Journal of Bigdata, 7(1), 75-87, (2022)
 
