@@ -20,8 +20,8 @@ Four members of SimFL Laboratory, Bonggwon Kang, Taehoon Lee, Gwanguk Han, Gwang
 All participants presented four research posters as listed below.  
 1) Bonggwon Kang, Suhan Yoon, Permata Vallentino Eko Joatiko, Soondo Hong (2023), "Simulation-based Yard Storage Assignment Optimization in a Container Terminal"
 
-2) Hoyoung Kim, Hyowon Choi, Taehoon Lee (2023), "A beam search algorithm for order batching and sequencing in progressive zone picking systems"
+2) Hoyoung Kim, Hyowon Choi, Taehoon Lee (2023), "A Beam Search Algorithm for Order Batching and Sequencing in Progressive Zone Picking Systems"
 
 3) Minsu Sung, Yeonwoo Lee, Sangil Kang, Gwanguk Han (2023), "A GA Based Optimization of Order Location Assignment in a Digital Picking Cart"
 
-4) Heejae Byun, Donghyun Kim, Nakwon Choi, Gwangheon Lee (2023), "In-plant milk run system d1esign for CONWIP in construction equipment assembly line" 
+4) Heejae Byun, Donghyun Kim, Nakwon Choi, Gwangheon Lee (2023), "In-plant Milk Run System Design for CONWIP in Construction Equipment Assembly Line" 
