@@ -29,8 +29,10 @@ Advisor: Professors Euiseung Jung
 Dept. of Industrial Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea  
 
 **Employment**  
+* Professor  
+Dept. of Industrial Engineering, Pusan National University, 2023.3-Present
 * Associate professor  
-Dept. of Industrial Engineering, Pusan National University, 2018.3-  
+Dept. of Industrial Engineering, Pusan National University, 2018.3-2023.3  
 * Department Head  
 Dept. of Industrial Engineering, Pusan National University, 2020.3-2022.2
 * Assistant professor  

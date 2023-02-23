@@ -9,7 +9,7 @@ layout: single
 
 ## Students
 
-### Ph.D. candidates and students
+### Ph.D. Candidates and Students
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD candidate (MS 2017~2019, PhD Fall 2019~)  
@@ -66,6 +66,14 @@ layout: single
 > <br>
 > <br>
 > <br>
+>* __Jangeun Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (PhD Spring 2022~)  
+>Research Interest:   
+>OR applications:   
+>E-mail:  
+> <br>
+> <br>
 
 ### Master's Students
 >* __Gwangheon Lee__  
@@ -120,7 +128,7 @@ layout: single
 >* __Hyunjung Yoon__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2023~)  
->Research Interest: Analysis and Optimization  
+>Research Interest: Statistical Analysis and Optimization  
 >OR applications: Simulation   
 >E-mail: [hyunj0102@pusan.ac.kr](mailto:hyunj0102@pusan.ac.kr)
 > <br>
@@ -141,27 +149,46 @@ layout: single
 ### Former Students
  
 >__Hoyoung Kim__   
->MS Student (graduated in 2023)   
+>MS Student (graduated in 2023)  
+>Affiliation: CJ Logistics Corporation  
+>Division: Optimization Solution Division, Center Optimization Team   
+> 
 >__Seongpil Kim__   
->MS Student (graduated in 2020)  
+>MS Student (graduated in 2020) 
+>  
 >__Permata Vallentino Eko Joatiko__   
 >MS Student (graduated in 2019)  
+>Affiliation: PT. Bank Rakyat Indonesia (Persero) Tbk  
+>Division: Enterprise Data Management Division, Big Data Advanced Analytics Team  
+>  
 >__Hoyoung Roh__   
 >MS Student (graduated in 2019)   
+>   
 __Jeongman Lee__   
-MS Student (graduated in 2018)  
+MS Student (graduated in 2018)   
+>Affiliation: Korea Shipbuilding & Offshore Engineering Co., Ltd.  
+>Division: Advanced Research Center 
+> 
 __Bosung Kim__   
 MS Student (graduated in 2018)  
+>   
 __Henokh Yernias Fibrianto__   
-MS Student (graduated in 2018)  
+MS Student (graduated in 2018)   
+>Affiliation: GrabTaxi Holdings Pte. Ltd   
+>   
 __Jihyeon Kim__   
-MS Student (graduated in 2018)  
+MS Student (graduated in 2018) 
+>      
 __Nguyen Thuy Mo__   
-MS Student (graduated in 2018)  
+MS Student (graduated in 2018) 
+>   
 __Boa Nam__   
-MS Student (graduated in 2017)  
+MS Student (graduated in 2017) 
+>   
 __Sofyan Dwi Cahyo__   
 MS Student (graduated in 2017)  
+>   
 __Jeonghwan Kim__   
-MS student (graduated in 2017)
+MS student (graduated in 2017)  
+> Affiliation: KISTI   
 
