@@ -7,11 +7,11 @@ toc_label: "Research"
 layout: single
 ---
 ## Research Field
-<img align="center" width="1500" height="1500" style="border: 1px solid white" src="/assets/images/research_field.jpg"> 
+<img align="center" width="1500" height="1500" style="border: 1px solid white" src="/assets/images/research_field_figure.jpg"> 
 
 
 ## Project
-12. Intelligent and Collaborative Operations in Automated Material Systems (2022.03 ~ 2024.02, Samsung Display)
+12. Intelligent and Collaborative Operations in Automated Material Systems (2022.03 ~ 2024.02, Samsung Display, PI)
 
 11. Research on Automated Container Terminal Yard Operations Based on Random Assignment Strategy (2022.09 ~ 2024.08, International cooperation program managed by the National Research Foundation of Korea, PI)
 

@@ -153,9 +153,14 @@ layout: single
 >Affiliation: CJ Logistics Corporation  
 >Division: Optimization Solution Division, Center Optimization Team   
 > 
->__Seongpil Kim__   
->MS Student (graduated in 2020) 
+>__Gwanguk Han__   
+>MS Student (graduated in 2022)  
+>Affiliation: Department of Industrial Engineering, Pusan National University  
 >  
+>__Seongpil Kim__   
+>MS Student (graduated in 2020)   
+>Affiliation: Korea Evaluation Institute Of Industrial Technology (KEIT, 한국산업기술평가관리원)  
+>
 >__Permata Vallentino Eko Joatiko__   
 >MS Student (graduated in 2019)  
 >Affiliation: PT. Bank Rakyat Indonesia (Persero) Tbk  
@@ -163,6 +168,7 @@ layout: single
 >  
 >__Hoyoung Roh__   
 >MS Student (graduated in 2019)   
+>Affiliation: Graduate School of Engineering Mastership at Pohang University of Science and Technology  
 >   
 __Jeongman Lee__   
 MS Student (graduated in 2018)   
@@ -171,24 +177,29 @@ MS Student (graduated in 2018)
 > 
 __Bosung Kim__   
 MS Student (graduated in 2018)  
->   
+> Affiliation: Department of Industrial Engineering, Pusan National University  
+>    
 __Henokh Yernias Fibrianto__   
 MS Student (graduated in 2018)   
->Affiliation: GrabTaxi Holdings Pte. Ltd   
+>Affiliation: GrabTaxi Holdings Pte. Ltd Singapore    
 >   
 __Jihyeon Kim__   
-MS Student (graduated in 2018) 
->      
+MS Student (graduated in 2018)   
+>Affiliation: CJ Logistics Corporation  
+>     
 __Nguyen Thuy Mo__   
 MS Student (graduated in 2018) 
 >   
 __Boa Nam__   
-MS Student (graduated in 2017) 
+MS Student (graduated in 2017)   
+>Affiliation: The Institute of intelligent Logistics Big Data, Pusan National University
 >   
 __Sofyan Dwi Cahyo__   
 MS Student (graduated in 2017)  
->   
+> Affiliation: Meratus Line Indonesia  
+> Division: Container Logistics Center  
+>  
 __Jeonghwan Kim__   
 MS student (graduated in 2017)  
-> Affiliation: KISTI   
+> Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
 
