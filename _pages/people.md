@@ -7,7 +7,7 @@ toc_label: "People"
 layout: single
 ---
 
-## Students
+## People
 
 ### Ph.D. Candidates and Students
 >* __Bosung Kim__  
