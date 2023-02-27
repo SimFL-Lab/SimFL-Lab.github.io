@@ -1,15 +1,13 @@
 ---
-permalink: /people/
-title: "People"
+permalink: /students/
+title: "Students"
 toc: true
 toc_sticky: true
-toc_label: "People"
+toc_label: "Students"
 layout: single
 ---
 
-## People
-
-### Ph.D. Candidates and Students
+## Ph.D. Candidates and Students
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD candidate (MS 2017~2019, PhD Fall 2019~)  
@@ -75,7 +73,7 @@ layout: single
 > <br>
 > <br>
 
-### Master's Students
+## Master's Students
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
 >MS Student (MS Spring 2022~)  
@@ -133,8 +131,9 @@ layout: single
 >E-mail: [hyunj0102@pusan.ac.kr](mailto:hyunj0102@pusan.ac.kr)
 > <br>
 > <br>
+> <br> 
 
-### Undergraduate Students
+## Undergraduate Students
 >* __Seonghyun Lim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2022)  
@@ -146,7 +145,7 @@ layout: single
 
 
 
-### Former Students
+## Former Students
  
 >__Hoyoung Kim__   
 >MS Student (graduated in 2023)  

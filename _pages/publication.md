@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "Publication"
 layout: single
 ---
-## Publication
+## Journal Articles
 
 ### 2022 
 [1] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems", Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
