@@ -9,7 +9,7 @@ layout: single
 ## Journal Articles
 
 ### 2022 
-[1] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems", Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
+[1] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems," Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
 
 [2] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Journal of the Korean Institute of Industrial Engineers, 48(5), 477-485, (2022)
 
@@ -21,10 +21,10 @@ layout: single
 
 [6] T Lee, J Lee, S Hong, "Batch Assorting for Worker-Following Assortment Carts in Parallel-Aisle Order-Assorting Systems," IEEE Access, 10, 44159-44169, (2022)
 
-[7] J Kim and S Hong "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane, Journal of the Operational Research Society", 73(5), 1155-1166, (2022)
+[7] J Kim and S Hong "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, 73(5), 1155-1166, (2022)
 
 ### 2021
-[1] T Lee, Y Kim, Jihyun Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts", Korean Journal of Logistics, 29(3), 69-78, (2021)
+[1] T Lee, Y Kim, Jihyun Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts," Korean Journal of Logistics, 29(3), 69-78, (2021)
 
 ### 2020
 
@@ -38,7 +38,7 @@ layout: single
 
 [5] HY Fibrianto, B Kang, S Hong, "A Job Sequencing Problem of an Overhead Shuttle Crane in a Rail-Based Automated Container Terminal," IEEE Access, 8, 156362-156377 (2020)
 
-[6] HY Fibrianto, B Kang, Bosung Kim, Annika Marbach, Tobias Buer, H. Haasis, S Hong, Kap-Hwan Kim, "A Simulation Study of a Storage Policy for a Container Terminal", Lecture notes in logistics, Springer International Publishing, (2020)
+[6] HY Fibrianto, B Kang, Bosung Kim, Annika Marbach, Tobias Buer, H. Haasis, S Hong, Kap-Hwan Kim, "A Simulation Study of a Storage Policy for a Container Terminal," Lecture notes in logistics, Springer International Publishing, (2020)
 
 ### 2019
 
@@ -62,7 +62,7 @@ layout: single
 
 [6] J Lee, JH Kim, HY Fibrianto, KH Kim, S Hong, “An integrated assignment and configuration model for configurable flat-glass racks in the construction industry,” Journal of the Korean Society of Supply Chain Management, 18(2), 1-12 (2018)
 
- 
+  
 
 ### 2017
 
@@ -88,49 +88,49 @@ layout: single
 
 ### 2015
 
-[1] S Hong, "Order batch formations for less picker blocking in a narrow-aisle picking system,"Industrial Engineering & Management Systems , 14 (3), 289-298 (2015)
+[1] S Hong, "Order batch formations for less picker blocking in a narrow-aisle picking system," Industrial Engineering & Management Systems, 14 (3), 289-298 (2015)
 
-[2] S Hong, AL Johnson, BA Peters, "Quantifying picker blocking in a bucket brigade order picking system," International Journal of Production Economics , 170, 862-873 (2015)
+[2] S Hong, AL Johnson, BA Peters, "Quantifying picker blocking in a bucket brigade order picking system," International Journal of Production Economics, 170, 862-873 (2015)
 
  
 
 ### 2014
 
-[1] S Hong, “Two-worker blocking model with walk speed m in a narrow circular passage system”, European Journal of Operational Research, 235(3), 687?696 (2014)
+[1] S Hong, “Two-worker blocking model with walk speed m in a narrow circular passage system,” European Journal of Operational Research, 235(3), 687-696 (2014)
 
-[2] S Hong, AL Johnson, and BA Peters, 2014. “Order batching with time constraints in a parallel-aisle warehouse: A multiple-policy approach,” Progress in Material Handling Research , Book Chapter, Material Handling Industry of America
+[2] S Hong, AL Johnson, and BA Peters, 2014. “Order batching with time constraints in a parallel-aisle warehouse: A multiple-policy approach,” Progress in Material Handling Research, Book Chapter, Material Handling Industry of America
 
  
 
 ### 2013
 
-[1] S Hong, AL Johnson, and BA Peters, “ A note on picker blocking models in a parallel-aisle order picking system ”, IIE Transactions , 45(12), 1345-1355 (2013)
+[1] S Hong, AL Johnson, and BA Peters, “ A note on picker blocking models in a parallel-aisle order picking system,” IIE Transactions, 45(12), 1345-1355 (2013)
 
-[2] M Ha , S Hong , and W Li, “Predicting the probability of H3K4me3 occupation at a base-pair from the genome sequence context”,Bioinformatics, 29(8), 1199-1205 (2013)
+[2] M Ha , S Hong , and W Li, “Predicting the probability of H3K4me3 occupation at a base-pair from the genome sequence context,” Bioinformatics, 29(8), 1199-1205 (2013)
 
  
 
 ### 2012
 
-[1] S Hong, AL Johnson, and BA Peters, “Batch picking in narrow-aisle order picking systems with consideration for picker blocking”, European Journal of Operational Research, 221(3), 557-570 (2012)
+[1] S Hong, AL Johnson, and BA Peters, “Batch picking in narrow-aisle order picking systems with consideration for picker blocking,” European Journal of Operational Research, 221(3), 557-570 (2012)
 
-[2] S Hong, AL Johnson, and BA Peters, “Large-scale order batching in parallel-aisle picking systems ”, IIE Transactions, 44(2), 88-106 (2012)
+[2] S Hong, AL Johnson, and BA Peters, “Large-scale order batching in parallel-aisle picking systems,” IIE Transactions, 44(2), 88-106 (2012)
 
-[3] S Hong and A Banerjee, “A large-scale distributed decision-making procedure for a single-machine scheduling problem”, International Journal of Production Research, 50(20), 5795-5808 (2012)
+[3] S Hong and A Banerjee, “A large-scale distributed decision-making procedure for a single-machine scheduling problem,” International Journal of Production Research, 50(20), 5795-5808 (2012)
 
  
 
 ### 2011
 
-[1] S Hong, Andrew L Johnson, Hector J. Carlo, Dima Nazzal, and Jesus A. Jimenez, “Optimizing the location of crossovers in conveyor-based automated material handling systems in s emiconductor wafer fabs”, International Journal of Production Research , 49(20), 6199-6226 (2011)
+[1] S Hong, Andrew L Johnson, Hector J. Carlo, Dima Nazzal, and Jesus A. Jimenez, “Optimizing the location of crossovers in conveyor-based automated material handling systems in s emiconductor wafer fabs,” International Journal of Production Research , 49(20), 6199-6226 (2011)
 
  
 
 ### ~2010
 
-[1] K Seo, M Joh, Y Choi, S Hong, and B Oh, “Analysis of turbo pump liquid propulsion system for a space launch vehicle”, Journal of Korea Aerospace Research Institute : Aerospace Engineering and Technology , 2(1), 151-157 (2003)
+[1] K Seo, M Joh, Y Choi, S Hong, and B Oh, “Analysis of turbo pump liquid propulsion system for a space launch vehicle,” Journal of Korea Aerospace Research Institute : Aerospace Engineering and Technology, 2(1), 151-157 (2003)
 
-[2] S Hong, H Cho, and M Jung , “Development of heterarchical shop-floor control system execution m odule u sing E-Net”, Journal of Korean Institute of Industrial Engineers , 25(1), 87-99 (1999)
+[2] S Hong, H Cho, and M Jung , “Development of heterarchical shop-floor control system execution m odule u sing E-Net,” Journal of Korean Institute of Industrial Engineers, 25(1), 87-99 (1999)
 
 ## Peer-reviewed conference articles and Book chapters
 
@@ -140,10 +140,10 @@ layout: single
 
 [3] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal,” IFIP International Conference on Advances in Production Management Systems, 663, 285-292, (2022)
 
-[4] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance" Proceedings of the IISE Annual Conference & Expo 2022, Accepted
+[4] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance," Proceedings of the IISE Annual Conference & Expo 2022, Accepted
 
-[5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regression", Proceedings of the 2022 Winter Simulation Conference, 1979-1989, 2022.
+[5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regression," Proceedings of the 2022 Winter Simulation Conference, 1979-1989, 2022.
 
-[6] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
+[6] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty," 49th International Conference on Computers and Industrial Engineering 2019, 1496-1505, Computers and Industrial Engineering, 2019-10
 
 [7] J Lee, Y Kim and S Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
