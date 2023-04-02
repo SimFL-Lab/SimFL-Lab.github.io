@@ -8,22 +8,25 @@ layout: single
 ---
 ## Journal Articles
 
+### 2023
+
+[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75, (2023) 
+
 ### 2022 
-[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75, (2023)
 
-[2] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems," Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
+[1] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems," Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
 
-[3] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Journal of the Korean Institute of Industrial Engineers, 48(5), 477-485, (2022)
+[2] G Han, B Kang, H Kim, S Hong, “A GA-based Optimization of a Weighted Lot Targeting Rule in a Semiconductor Wafer Fab,” Journal of the Korean Institute of Industrial Engineers, 48(5), 477-485, (2022)
 
-[4] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow shop with rework process,” The Korea Journal of Bigdata, 7(1), 75-87, (2022)
+[3] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow shop with rework process,” The Korea Journal of Bigdata, 7(1), 75-87, (2022)
 
-[5] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, 7(1), 99-111, (2022)
+[4] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, 7(1), 99-111, (2022)
 
-[6] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10, (2022)
+[5] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10, (2022)
 
-[7] T Lee, J Lee, S Hong, "Batch Assorting for Worker-Following Assortment Carts in Parallel-Aisle Order-Assorting Systems," IEEE Access, 10, 44159-44169, (2022)
+[6] T Lee, J Lee, S Hong, "Batch Assorting for Worker-Following Assortment Carts in Parallel-Aisle Order-Assorting Systems," IEEE Access, 10, 44159-44169, (2022)
 
-[8] J Kim and S Hong "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, 73(5), 1155-1166, (2022)
+[7] J Kim and S Hong "A dynamic storage location assignment model for a progressive bypass zone picking system with an S/R crane," Journal of the Operational Research Society, 73(5), 1155-1166, (2022)
 
 ### 2021
 [1] T Lee, Y Kim, Jihyun Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts," Korean Journal of Logistics, 29(3), 69-78, (2021)

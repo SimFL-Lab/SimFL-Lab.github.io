@@ -16,7 +16,7 @@ Soondo Hong received his Ph.D. in Industrial and Systems Engineering from the Te
 * Ph.D., Industrial Engineering, August 2010  
 Dissertation: Analysis and control of batch order-picking processes considering picker blocking  
 Co-advisors: Professors Brett A. Peters and Andrew L. Johnson  
-Dept. of Industrial and Systems Engineering, Texas A&M University, College Station, Texas  
+Dept. of Industrial and Systems Engineering, Texas A&M University, College Station, Texas, USA    
   
 * M.S., Industrial Engineering, February 1996  
 Thesis: Development of Petri-net based execution module for heterarchical shop flow control system  
@@ -31,7 +31,7 @@ Dept. of Industrial Engineering, Pohang University of Science and Technology (PO
 * Professor  
 Dept. of Industrial Engineering, Pusan National University, 2023.3-Present
 * Associate professor  
-Dept. of Industrial Engineering, Pusan National University, 2018.3-2023.3  
+Dept. of Industrial Engineering, Pusan National University, 2018.3-2023.2    
 * Department Head  
 Dept. of Industrial Engineering, Pusan National University, 2020.3-2022.2
 * Assistant professor  
