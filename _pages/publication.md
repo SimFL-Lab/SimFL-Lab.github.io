@@ -8,12 +8,10 @@ layout: single
 ---
 ## Journal Articles
 
-### 2023
+### 2021 ~ Present
 __2023__
 >
 >[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75, (2023) 
-
-### 2016 ~ 2022
 
 __2022__  
 >
@@ -34,6 +32,8 @@ __2022__
 __2021__  
 >
 >[1] T Lee, Y Kim, Jihyun Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts," Korean Journal of Logistics, 29(3), 69-78, (2021)
+
+### 2016 ~ 2020  
 
 __2020__  
 >
