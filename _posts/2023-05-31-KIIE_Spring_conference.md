@@ -2,7 +2,7 @@
 title:  "Participation in KIIE Spring Conference 2023"
 header:
     teaser: "/assets/images/2023_KIIE_1.jpg"
-excerpt: "Participation in 2023 KIIE Spring Conference: Bosung Kim, Jeongwon Park, Jeongtae Park”. "
+excerpt: "Participation in 2023 KIIE Spring Conference: Bosung Kim, Jeongwon Park, Jeongtae Park."
 author: "hyunjung"
 categories:
   - Conference

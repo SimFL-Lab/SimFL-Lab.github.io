@@ -2,7 +2,7 @@
 title:  "Surrogate model-based simulation optimization international joint research workshop (2023.06.16)"
 header:
     teaser: "/assets/images/2023.06.16_jointworkshop.jpg"
-excerpt: "Surrogate model-based simulation optimization international joint research workshop was held on June 16, 2023.”. "
+excerpt: "Surrogate model-based simulation optimization international joint research workshop was held on June 16, 2023."
 author: "hyunjung"
 categories:
   - Conference

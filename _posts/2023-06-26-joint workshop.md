@@ -2,7 +2,7 @@
 title:  "Participation in the 3rd Summer Joint Workshop on Decision under Uncertainty"
 header:
     teaser: "/assets/images/postech_3.jpg"
-excerpt: "The 3rd Summer Joint Workshop was held on June 26-27, 2023 at POSTECH university.”. "
+excerpt: "The 3rd Summer Joint Workshop was held on June 26-27, 2023 at POSTECH university."
 author: "hyunjung"
 categories:
   - Conference
