@@ -74,7 +74,7 @@ layout: single
 > <br>
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
->PhD Student (PhD Fall 2023~)  
+>PhD Student (MS 2022~2023, PhD Fall 2023~)  
 >Research Interest: Order picking   
 >OR applications: Simulation and Optimization  
 >E-mail: [sag05017@pusan.ac.kr](mailto:sag05017@pusan.ac.kr)  
