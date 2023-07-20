@@ -36,6 +36,7 @@ layout: single
 >[Additional Information](https://sites.google.com/view/bonggwon-kang) 
 > <br>
 > <br>
+> <br>
 >* __Tran Vo Thao Huong__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Student (PhD Fall 2021~)  
@@ -59,6 +60,8 @@ layout: single
 >OR applications: Simulation, Dispatching, Machine learning  
 >Teaching assistance (Facilities planning & material handling systems)  
 >E-mail: [gwanguk.han@gmail.com](mailto:gwanguk.han@gmail.com)
+> <br>
+> <br>
 > <br>
 > <br>
 >* __Jangeun Kim__  
