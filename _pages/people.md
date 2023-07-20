@@ -36,7 +36,6 @@ layout: single
 >[Additional Information](https://sites.google.com/view/bonggwon-kang) 
 > <br>
 > <br>
-> <br>
 >* __Tran Vo Thao Huong__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Student (PhD Fall 2021~)  
@@ -62,8 +61,6 @@ layout: single
 >E-mail: [gwanguk.han@gmail.com](mailto:gwanguk.han@gmail.com)
 > <br>
 > <br>
-> <br>
-> <br>
 >* __Jangeun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Student (PhD Spring 2022~)  
@@ -72,8 +69,6 @@ layout: single
 >E-mail:  
 > <br>
 > <br>
-
-## Master's Students
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
 >MS Student (MS Spring 2022~)  
@@ -84,6 +79,7 @@ layout: single
 > <br>
 > <br>
 > <br>
+## Master's Students
 >* __Jeongwon Park__  
 ><img align="left" width="150" height="200" style="border: 10px solid white" src="/assets/images/Jeongwon_Park.jpg">
 >MS Student (MS Spring 2022~)  
