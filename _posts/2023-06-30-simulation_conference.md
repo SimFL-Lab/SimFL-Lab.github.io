@@ -19,6 +19,7 @@ last_modified_at: 2023-07-03
 Four members of SimFL Lab, Jeongtae Park, Taehoon Lee, Hyunjung Yoon and Bonggwon Kang, participated in Simulation Conference 2023 which was taken place on June 30, 2023 in Seoul, South Korea.
 
 Presented research entitled:
+
 1) Jeongtae Park, "트윈크레인 AS/RS Zone 운영정책의 Hand-off zone 위치 및 크기 결정에 관한 시뮬레이션 연구"
 
 2) Hyunjung Yoon, "시뮬레이션 기반 반도체 포토공정 스케줄링을 위한 샘플링 대안 비교"
