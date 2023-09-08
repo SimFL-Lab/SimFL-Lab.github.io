@@ -18,4 +18,4 @@ SimFL LAB & Hanwha Ocean joint workshop was held at PNU on September 8, 2023.
 
 SimFL Lab members and Hanwha Ocean attended the joint workshop.
 
-Date : September
+Date : September 8
