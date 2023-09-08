@@ -1,8 +1,8 @@
 ---
-title:  "Participation in the Simulation conference 2023"
+title:  "Participation in the Simulation Conference 2023"
 header:
     teaser: "/assets/images/SC_1.jpg"
-excerpt: "Participation in the simulation conference 2023 : Jeongtae Park, Taehoon Lee, Hyunjung Yoon and Bonggwon Kang. "
+excerpt: "Participation in the simulation Conference 2023 : Jeongtae Park, Taehoon Lee, Hyunjung Yoon and Bonggwon Kang. "
 author: "hyunjung"
 categories:
   - Conference
