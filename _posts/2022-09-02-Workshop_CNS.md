@@ -1,5 +1,5 @@
 ---
-title:  "LG CNS Lab Enture & SimFL exchange meeting (2022.08.19)"
+title:  "LG CNS Enture & SimFL Lab exchange meeting (2022.08.19)"
 header:
     teaser: "/assets/images/20220819_CNS.jpg"
 excerpt: "2022 LG CNS Enture & SimFL Lab exchange meeting was held at PNU on August 19, 2022."
@@ -15,5 +15,5 @@ last_modified_at: 2022-09-06
 
 2022 LG CNS Enture & SimFL Lab exchange meeting was held at PNU on August 19, 2022.
 
-All SimFL Lab members and LG CNS Enture attended the workshop.
+ LG CNS Enture and all SimFL Lab members attended the workshop.
 
