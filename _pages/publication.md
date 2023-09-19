@@ -13,6 +13,10 @@ __2023__
 >
 >[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75, (2023) 
 
+[2] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab”, IEEE Transactions on Automation Science and Engineering, accepted.
+
+[3] H Yoon, G Han, B Kang, S Hong, "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods", Journal of the Korea Society for Simulation, accepted.
+
 __2022__  
 >
 >[1] B Kang, B-M Kang, S Hong, "A Dynamic OHT Routing Algorithm in Automated Material Handling Systems," Journal of Korean Society of Industrial and Systems Engineering, 45(3), 40-48, (2022)  
