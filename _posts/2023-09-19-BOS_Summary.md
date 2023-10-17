@@ -2,7 +2,7 @@
 title:  "Bayesian Optimization for the Vehicle Dwelling Policy in a Semiconductor Wafer Fab"
 header:
     teaser: "/assets/images/BOS.jpg"
-excerpt: "This paper has been accepted in IEEE Transactions on Automation Science and Engineering (2023. 09)."
+excerpt: "This paper has been accepted in IEEE Transactions on Automation Science and Engineering on September, 2023."
 author: "Hyunjung"
 categories:
   - Paper summary

@@ -2,7 +2,7 @@
 title:  "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods "
 header:
     teaser: "/assets/images/SIMOP.jpg"
-excerpt: "This paper has been accepted in Journal of the Korea Society for Simulation (2023. 09). "
+excerpt: "This paper has been accepted in Journal of the Korea Society for Simulation on September, 2023. "
 author: "Hyunjung"
 categories:
   - Paper summary
