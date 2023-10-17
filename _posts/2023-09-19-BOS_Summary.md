@@ -18,4 +18,5 @@ last_modified_at: 2023-09-19
 
 ### Author : Bonggwon Kang, Chiwoo Park, Haejoong Kim and Soondo Hong
 
-http://doi.org/10.1109/TASE.2023.3320189
+
+[http://doi.org/10.1109/TASE.2023.3320189](http://doi.org/10.1109/TASE.2023.3320189)

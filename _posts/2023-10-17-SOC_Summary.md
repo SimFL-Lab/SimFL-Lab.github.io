@@ -17,4 +17,5 @@ last_modified_at: 2023-10-17
 
 ### Author : Bonggwon Kang, Bosung Kim and Soondo Hong
 
-http://doi.org/10.1109/ACCESS.2023.3323613
+
+[http://doi.org/10.1109/ACCESS.2023.3323613](http://doi.org/10.1109/ACCESS.2023.3323613)
