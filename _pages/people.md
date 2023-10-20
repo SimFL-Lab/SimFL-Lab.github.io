@@ -158,39 +158,39 @@ layout: single
 >MS Student (graduated in 2019)   
 >Affiliation: Graduate School of Engineering Mastership at Pohang University of Science and Technology  
 >   
-__Jeongman Lee__   
-MS Student (graduated in 2018)   
+>__Jeongman Lee__   
+>MS Student (graduated in 2018)   
 >Affiliation: Korea Shipbuilding & Offshore Engineering Co., Ltd.  
 >Division: Advanced Research Center 
 > 
-__Bosung Kim__   
-MS Student (graduated in 2018)  
+>__Bosung Kim__   
+>MS Student (graduated in 2018)  
 > Affiliation: Department of Industrial Engineering, Pusan National University  
 >    
-__Henokh Yernias Fibrianto__   
-MS Student (graduated in 2018)   
+>__Henokh Yernias Fibrianto__   
+>MS Student (graduated in 2018)   
 >Affiliation: GrabTaxi Holdings Pte. Ltd Singapore    
 >   
-__Jihyeon Kim__   
-MS Student (graduated in 2018)   
+>__Jihyeon Kim__   
+>MS Student (graduated in 2018)   
 >Affiliation: CJ Logistics Corporation  
 >     
-__Nguyen Thuy Mo__   
-MS Student (graduated in 2018) 
+>__Nguyen Thuy Mo__   
+>MS Student (graduated in 2018) 
 >   
-__Boa Nam__   
-MS Student (graduated in 2017)   
+>__Boa Nam__   
+>MS Student (graduated in 2017)   
 >Affiliation: The Institute of intelligent Logistics Big Data, Pusan National University
 >   
-__Sofyan Dwi Cahyo__   
-MS Student (graduated in 2017)  
-> Affiliation: Meratus Line Indonesia  
-> Division: Container Logistics Center  
+>__Sofyan Dwi Cahyo__   
+>MS Student (graduated in 2017)  
+>Affiliation: Meratus Line Indonesia  
+>Division: Container Logistics Center  
 >  
-__Jeonghwan Kim__   
-MS student (graduated in 2017)  
-> Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
+>__Jeonghwan Kim__   
+>MS student (graduated in 2017)  
+>Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
 >  
-__Jungtae Park__ 
-MS Student (graduated in 2023)
-> Affiliation: Department of Industrial Engineering, Arizona State University
+>__Jungtae Park__ 
+>MS Student (graduated in 2023)
+>Affiliation: Department of Industrial Engineering, Arizona State University
