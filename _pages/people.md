@@ -191,6 +191,6 @@ layout: single
 >MS student (graduated in 2017)  
 >Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
 >  
->__Jungtae Park__ 
+>__Jeongwon Park__ 
 >MS Student (graduated in 2023)
 >Affiliation: Department of Industrial Engineering, Arizona State University
