@@ -17,7 +17,7 @@ __2023__
 >
 >[3] H Yoon, G Han, B Kang, S Hong, "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods", Journal of the Korea Society for Simulation, 32(3), 67-74 (2023)
 >
->[4] B Kang, B Kim, S Hong, "Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty", IEEE Access, in press
+>[4] B Kang, B Kim, S Hong, "Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty", IEEE Access, 11, 113437-113449 (2023)
 >
 >[5] J Park, B Kim, T Lee, S Lee, S Hong, "A Simulation Study on Handshake Location in an AS/RS with Twin Cranes for Mixed-model Production in an Automotive Plant", Journal of the Korea Society for Simulation, in press
 
@@ -29,7 +29,7 @@ __2022__
 >
 >[3] G Lee, G Han, B Kang, J Lee, S Hong, “A simulation-based genetic algorithm for a dispatching rule in a flexible flow shop with rework process,” The Korea Journal of Bigdata, 7(1), 75-87 (2022)
 >
->[4] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, 7(1) 99-111, (2022)
+>[4] H Kim, T Lee, B Kang, S Hong, “A study of a video-based simulation input modeling procedure in a construction equipment assembly line,” The Korea Journal of Bigdata, 7(1) 99-111 (2022)
 >
 >[5] T Lee, Y Kim, S Hong, "A Simulation Study for an Operational Design of a Robot-based Digital Assorting System," Korea Logistics Review, 32(2), 1-10 (2022)
 >

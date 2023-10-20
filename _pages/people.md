@@ -83,16 +83,6 @@ layout: single
 > <br>
 > <br>
 ## Master's Students
->* __Jeongwon Park__  
-><img align="left" width="150" height="200" style="border: 10px solid white" src="/assets/images/Jeongwon_Park.jpg">
->MS Student (MS Spring 2022~)  
->Research Interest: Order Picking, Simulation, Statistical Machine learning  
->OR applications: Simulation Optimization, Machine learning    
->Teaching assistance (Engineering economy, Facilities planning & material handling systems)  
->E-mail: [jeongwon.park@pusan.ac.kr](mailto:jeongwon.park@pusan.ac.kr)  
->[Personal website](https://parkgarden.github.io/)
-> <br>
-> <br>
 >* __Jungtae Park__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Jeongtae_Park.jpg">
 >MS Student (MS Spring 2022~)  
@@ -200,4 +190,7 @@ MS Student (graduated in 2017)
 __Jeonghwan Kim__   
 MS student (graduated in 2017)  
 > Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
-
+>  
+__Jungtae Park__ 
+MS Student (graduated in 2023)
+> Affiliation: Department of Industrial Engineering, Arizona State University
