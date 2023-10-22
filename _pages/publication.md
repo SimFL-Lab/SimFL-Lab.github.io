@@ -11,7 +11,7 @@ layout: single
 ### 2021 ~ Present
 __2023__
 >
->[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75, (2023) 
+>[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75 (2023) 
 >
 >[2] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab,” IEEE Transactions on Automation Science and Engineering, in press
 >
