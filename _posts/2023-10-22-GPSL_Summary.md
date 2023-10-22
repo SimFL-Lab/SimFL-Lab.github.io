@@ -1,7 +1,7 @@
 ---
 title:  "Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems"
 header:
-    teaser: "/assets/images/GPSL.jpg"
+    teaser: "/assets/images/GPSL.JPG"
 excerpt: "New paper has been published in Computers & Industrial Engineering."
 author: "Hyunjung"
 categories:
@@ -11,7 +11,7 @@ tags:
   - Storage location assignment;
 last_modified_at: 2023-10-22
 ---
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/GPSL.jpg">
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/GPSL.JPG">
 
 Journal : Computers & Industrial Engineering
 

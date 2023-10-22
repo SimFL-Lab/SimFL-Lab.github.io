@@ -2,7 +2,7 @@
 title:  "2023 KSS student competition 1st prize"
 header:
     teaser: "/assets/images/kss_2.jpg"
-excerpt: "SimFL lab's undergraduate students won a 2023 KSS student competition"
+excerpt: "SimFL lab's undergraduate students won a 2023 KSS student competition."
 author: "hyunjung"
 categories:
   - Conference

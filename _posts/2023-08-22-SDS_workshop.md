@@ -2,7 +2,7 @@
 title:  "Samsung Display & SimFL Lab workshop (2023.08.22-23) "
 header:
     teaser: "/assets/images/SDS_1.jpg"
-excerpt: "2023 Samsung Display & SimFL Lab workshop was held at PNU on August 22 - 23, 2023"
+excerpt: "2023 Samsung Display & SimFL Lab workshop was held at PNU on August 22 - 23, 2023."
 author: "hyunjung"
 categories:
   - Conference
