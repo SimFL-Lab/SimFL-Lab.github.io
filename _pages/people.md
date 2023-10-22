@@ -80,8 +80,7 @@ layout: single
 >E-mail: [sag05017@pusan.ac.kr](mailto:sag05017@pusan.ac.kr)  
 > <br>
 > <br>
-> <br>
-
+> <br> 
 
 ## Master's Students
 >* __Jungtae Park__  
@@ -131,9 +130,7 @@ layout: single
 >E-mail:  
 > <br>
 > <br>
-> <br>
-
-
+> <br> 
 
 ## Former Students
  
