@@ -81,7 +81,7 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br>
+
 ## Master's Students
 >* __Jungtae Park__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Jeongtae_Park.jpg">
@@ -136,6 +136,10 @@ layout: single
 
 ## Former Students
  
+>__Jeongwon Park__  
+>MS Student (graduated in 2023)  
+>Affiliation: Department of Industrial Engineering, Arizona State University  
+> 
 >__Hoyoung Kim__   
 >MS Student (graduated in 2023)  
 >Affiliation: CJ Logistics Corporation  
@@ -190,7 +194,3 @@ layout: single
 >__Jeonghwan Kim__   
 >MS student (graduated in 2017)  
 >Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
->   
->__Jeongwon Park__  
->MS Student (graduated in 2023)  
->Affiliation: Department of Industrial Engineering, Arizona State University  
