@@ -11,7 +11,7 @@ tags:
   - Storage location assignment;
 last_modified_at: 2023-10-22
 ---
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/GPSL.JPG">
+<img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/GPSL.JPG">
 
 Journal : Computers & Industrial Engineering
 
