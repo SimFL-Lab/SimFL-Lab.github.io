@@ -2,7 +2,7 @@
 title:  "Partcipation in LOGMS Conference 2023"
 header:
     teaser: "/assets/images/LOGMS_1.jpg"
-excerpt: "Seven SimFL members participated in LOGMS Conference 2023"
+excerpt: "Seven SimFL members participated in LOGMS Conference 2023."
 author: "Hyunjung"
 categories:
   - Conference
