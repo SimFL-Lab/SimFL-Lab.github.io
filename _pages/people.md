@@ -52,7 +52,6 @@ layout: single
 >OR applications: Simulation, Machine learning  
 >E-mail: [ysise99@pusan.ac.kr](mailto:ysise99@pusan.ac.kr)  
 > <br>
-> <br>
 >* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Gwanguk_Han.jpg">
 >PhD Student (MS 2019~2021, PhD Spring 2022~)  
@@ -102,14 +101,12 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br>
 >* __Jean Marne Gutierrez__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Fall 2022~)  
 >Research Interest: Material Handling  
 >OR applications: Simulation and Optimization  
 >E-mail: [jeanmarneg@pusan.ac.kr](mailto:jeanmarneg@pusan.ac.kr)
-> <br>
 > <br>
 > <br>
 > <br>
