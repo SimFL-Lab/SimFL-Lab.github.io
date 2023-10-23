@@ -124,11 +124,30 @@ layout: single
 > <br> 
 
 ## Undergraduate Students
->* __Seonghyun Lim__  
+>* __Hyowon Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Spring 2022)  
->Research Interest: Simulation and Machine learning in Material handling  
->E-mail:  
+>Undergraduate Student (joined in Fall 2023)  
+>Research Interest: Optimization, Simulation, Statistics  
+>E-mail: [iios31@naver.com](mailto:iios31@naver.com) 
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Yechan Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Fall 2023)  
+>Research Interest: Simulation and Reinforcement learning  
+>E-mail: [ehnchan12@pusan.ac.kr](mailto:ehnchan12@pusan.ac.kr) 
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Jihye Choi__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Fall 2023)  
+>Research Interest: Simulation, Smart factory, Reinforcement learning  
+>E-mail: [abcdefghye@pusan.ac.kr](mailto:abcdefghye@pusan.ac.kr) 
+> <br>
 > <br>
 > <br>
 > <br> 
