@@ -5,9 +5,9 @@ header:
 excerpt: "The 3rd Summer Joint Workshop was held on June 26-27, 2023 at POSTECH university."
 author: "hyunjung"
 categories:
-  - Conference
+  - Workshop
 tags:
-  - Conference
+  - Workshop
   - Achievement
 last_modified_at: 2023-06-28
 ---

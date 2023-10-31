@@ -5,9 +5,9 @@ header:
 excerpt: "Hanwha Ocean & SimFL Lab joint workshop was held at PNU on September 8, 2023."
 author: "Hyunjung"
 categories:
-  - Conference
+  - Workshop
 tags:
-  - Conference
+  - Workshop
   - Achievement
 last_modified_at: 2023-09-08
 ---

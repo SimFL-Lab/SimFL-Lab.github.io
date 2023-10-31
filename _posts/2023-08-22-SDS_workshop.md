@@ -5,9 +5,9 @@ header:
 excerpt: "2023 Samsung Display & SimFL Lab workshop was held at PNU on August 22 - 23, 2023."
 author: "hyunjung"
 categories:
-  - Conference
+  - Workshop
 tags:
-  - Conference
+  - Workshop
   - Achievement
 last_modified_at: 2023-08-25
 ---

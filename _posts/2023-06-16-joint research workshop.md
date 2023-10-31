@@ -5,9 +5,9 @@ header:
 excerpt: "Surrogate model-based simulation optimization international joint research workshop was held on June 16, 2023."
 author: "hyunjung"
 categories:
-  - Conference
+  - Workshop
 tags:
-  - Conference
+  - Workshop
   - Achievement
 last_modified_at: 2023-06-28
 ---
