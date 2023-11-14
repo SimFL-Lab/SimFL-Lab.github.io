@@ -22,6 +22,8 @@ __2023__
 >[5] J Park, B Kim, T Lee, S Lee, S Hong, "A Simulation Study on Handshake Location in an AS/RS with Twin Cranes for Mixed-model Production in an Automotive Plant," Journal of the Korea Society for Simulation, in press
 >
 >[6] J Park, C Park, S Hong, "Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems," Computers & Industrial Engineering, in press
+>
+>[7] T Lee, H Fibrianto, S Hong, “Order batching problem in a parallel-aisle order picking system with larger-than-bin orders,” Journal of the Operational Research Society, in press
 
 __2022__  
 >
