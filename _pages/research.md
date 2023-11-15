@@ -11,7 +11,7 @@ layout: single
 
 
 ## Projects
-12. Intelligent and Collaborative Operations in Automated Material Systems (2022.03 ~ 2024.02, Samsung Display, PI)
+12. Intelligent and Collaborative Operations in Automated Material Systems (2023.03 ~ 2024.02, Samsung Display, PI)
 
 11. Research on Automated Container Terminal Yard Operations Based on Random Assignment Strategy (2022.09 ~ 2024.08, International cooperation program managed by the National Research Foundation of Korea, PI)
 
