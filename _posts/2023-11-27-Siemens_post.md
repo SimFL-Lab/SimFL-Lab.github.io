@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2023-11-27
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/siemens1.JPG">
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/siemens2.JPG">
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/Siemens2.JPG">
 
 Siemens posts our achievements about KSS student competition and research publications. 
 
