@@ -9,21 +9,25 @@ layout: single
 ## Journal Articles
 
 ### 2021 ~ Present
+__2024__
+>
+>[1] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab,” IEEE Transactions on Automation Science and Engineering, in press
+>
+>[2] T Lee, HY Fibrianto, S Hong, “Order batching problem in a parallel-aisle order picking system with larger-than-bin orders,” Journal of the Operational Research Society, in press
+
 __2023__
 >
 >[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks," Journal of Korean Society of Industrial Management Systems, 46(1), 68-75 (2023) 
 >
->[2] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab,” IEEE Transactions on Automation Science and Engineering, in press
+>[2] H Yoon, G Han, B Kang, S Hong, "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods," Journal of the Korea Society for Simulation, 32(3), 67-74 (2023)
 >
->[3] H Yoon, G Han, B Kang, S Hong, "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods," Journal of the Korea Society for Simulation, 32(3), 67-74 (2023)
+>[3] B Kang, B Kim, S Hong, "Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty," IEEE Access, 11, 113437-113449 (2023)
 >
->[4] B Kang, B Kim, S Hong, "Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty," IEEE Access, 11, 113437-113449 (2023)
+>[4] J Park, B Kim, T Lee, S Lee, S Hong, "A Simulation Study on Handshake Location in an AS/RS with Twin Cranes for Mixed-model Production in an Automotive Plant," Journal of the Korea Society for Simulation, in press
 >
->[5] J Park, B Kim, T Lee, S Lee, S Hong, "A Simulation Study on Handshake Location in an AS/RS with Twin Cranes for Mixed-model Production in an Automotive Plant," Journal of the Korea Society for Simulation, in press
+>[5] J Park, C Park, S Hong, "Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems," Computers & Industrial Engineering, 185, 109700 (2023)
 >
->[6] J Park, C Park, S Hong, "Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems," Computers & Industrial Engineering, in press
->
->[7] T Lee, H Fibrianto, S Hong, “Order batching problem in a parallel-aisle order picking system with larger-than-bin orders,” Journal of the Operational Research Society, in press
+>[6] G Han, SD Cahyo, S Hong, "A Simulation Study on the Picker Shortage Delay of Flow-rack Replenishment in Progressive Zone Picking Systems," Journal of the Korean Society of Supply Chain Management, 23(3), 1-10 (2023)
 
 __2022__  
 >
