@@ -23,7 +23,7 @@ __2023__
 >
 >[3] B Kang, B Kim, S Hong, "Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty," IEEE Access, 11, 113437-113449 (2023)
 >
->[4] J Park, B Kim, T Lee, S Lee, S Hong, "A Simulation Study on Handshake Location in an AS/RS with Twin Cranes for Mixed-model Production in an Automotive Plant," Journal of the Korea Society for Simulation, in press
+>[4] J Park, B Kim, T Lee, S Lee, S Hong, "A Simulation Study on Handshake Location in an AS/RS with Twin Cranes for Mixed-model Production in an Automotive Plant," Journal of the Korea Society for Simulation, 32(4), 11-18 (2023)
 >
 >[5] J Park, C Park, S Hong, "Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems," Computers & Industrial Engineering, 185, 109700 (2023)
 >
