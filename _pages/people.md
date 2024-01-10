@@ -148,6 +148,24 @@ layout: single
 > <br>
 > <br>
 > <br> 
+>* __Dohun Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2023)  
+>Research Interest: Simulation optimization  
+>E-mail: [sss3507@naver.com](mailto:sss3507@naver.com) 
+> <br>
+> <br>
+> <br>
+> <br> 
+>* __Hoyoung Choi__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2023)  
+>Research Interest: Simulation, Statistical Analysis  
+>E-mail: [chlghdyd1234@naver.com](mailto:chlghdyd1234@naver.com) 
+> <br>
+> <br>
+> <br>
+> <br> 
 
 ## Former Students
  
