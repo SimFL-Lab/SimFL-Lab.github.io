@@ -1,5 +1,5 @@
 ---
-title:  "Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems"
+title:  "Gaussian process-based storage location assignments with risk assessments for progressive zone picking systems"
 header:
     teaser: "/assets/images/GPSL.JPG"
 excerpt: "New paper has been published in Computers & Industrial Engineering."
@@ -15,7 +15,7 @@ last_modified_at: 2023-10-22
 
 Journal : Computers & Industrial Engineering
 
-Title : Gaussian Process-based Storage Location Assignments with Risk Assessments for Progressive Zone Picking Systems
+Title : Gaussian process-based storage location assignments with risk assessments for progressive zone picking systems
 
 Authors : Jeongwon Park, Chiwoo Park, and Soondo Hong 
 

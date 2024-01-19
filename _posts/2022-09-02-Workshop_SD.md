@@ -1,5 +1,5 @@
 ---
-title:  "Joint Workshop for Simulation-based Logistics Optimization Research (2022.08.17)"
+title:  "Samsung Display & SimFL Lab 1st Joint Workshop (2022.08.17)"
 header:
     teaser: "/assets/images/20220817_SD.jpg"
 excerpt: "Joint Workshop for Simulation-based Logistics Optimization Research was held at PNU on August 17, 2022."

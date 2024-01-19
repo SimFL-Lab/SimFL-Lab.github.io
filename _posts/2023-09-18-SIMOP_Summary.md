@@ -1,5 +1,5 @@
 ---
-title:  "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods "
+title:  "A simulation-based optimization for scheduling in a fab: comparative study on different sampling methods"
 header:
     teaser: "/assets/images/SIMOP.jpg"
 excerpt: "New paper has been published in Journal of the Korea Society for Simulation. "
@@ -15,7 +15,7 @@ last_modified_at: 2023-09-18
 
 Journal : Journal of the Korea Society for Simulation
 
-Title : A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods
+Title : A simulation-based optimization for scheduling in a fab: comparative study on different sampling methods
 
 Authors : Hyunjung Yoon, Gwanguk Han, Bonggwon Kang, and Soondo Hong
 

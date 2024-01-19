@@ -1,5 +1,5 @@
 ---
-title:  "Simulation Optimization of Collaborative Handshake Operations for Twin Overhead Shuttle Cranes in a Rail-based Automated Container Terminal under Demand Uncertainty"
+title:  "Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty"
 header:
     teaser: "/assets/images/SOC.jpg"
 excerpt: "New paper has been published in IEEE Access."
@@ -15,7 +15,7 @@ last_modified_at: 2023-10-17
 
 Journal : IEEE Access
 
-Title : Simulation Optimization of Collaborative Handshake Operations for Twin Overhead Shuttle Cranes in a Rail-based Automated Container Terminal under Demand Uncertainty
+Title : Simulation optimization of collaborative handshake operations for twin overhead shuttle cranes in a rail-based automated container terminal under demand uncertainty
 
 Authors : Bonggwon Kang, Bosung Kim, and Soondo Hong
 

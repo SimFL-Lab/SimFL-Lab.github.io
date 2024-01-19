@@ -1,5 +1,5 @@
 ---
-title:  "Bayesian Optimization for the Vehicle Dwelling Policy in a Semiconductor Wafer Fab"
+title:  "Bayesian optimization for the vehicle dwelling policy in a semiconductor wafer fab"
 header:
     teaser: "/assets/images/BOS.jpg"
 excerpt: "New paper has been published in IEEE Transactions on Automation Science and Engineering."
@@ -16,7 +16,7 @@ last_modified_at: 2023-09-19
 
 Journal : IEEE Transactions on Automation Science and Engineering
 
-Title : Bayesian Optimization for the Vehicle Dwelling Policy in a Semiconductor Wafer Fab
+Title : Bayesian optimization for the vehicle dwelling policy in a semiconductor wafer fab
 
 Authors : Bonggwon Kang, Chiwoo Park, Haejoong Kim, and Soondo Hong
 
