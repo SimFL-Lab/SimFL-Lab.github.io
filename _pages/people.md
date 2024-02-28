@@ -10,7 +10,7 @@ layout: single
 ## Ph.D. Candidates and Students
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD candidate (MS 2017~2019, PhD Fall 2019~)  
+>PhD Student (MS 2017~2019, PhD Fall 2019~)  
 >Research Interest: Analysis and Scheduling of Twin-mobility System  
 >OR applications: Optimization, Simulation, Meta heuristics   
 >Teaching assistance (Facilities planning & material handling systems)  
@@ -19,7 +19,7 @@ layout: single
 > <br>
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
->PhD candidate (MS 2018~2019, PhD Fall 2019~)  
+>PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation    
 >Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)  
@@ -28,7 +28,7 @@ layout: single
 > <br>
 >* __Bonggwon Kang__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
->PhD candidate (PhD Fall 2019~)  
+>PhD Candidate (PhD Fall 2019~)  
 >Research Interest: Simulation modeling and analysis, Simulation-based optimization  
 >OR applications: Simulation, Machine learning, Meta heuristics  
 >Teaching assistance (Simulation, Facilities planning & material handling systems)  
@@ -39,7 +39,7 @@ layout: single
 > <br>
 >* __Tran Vo Thao Huong__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (PhD Fall 2021~)  
+>PhD Candidate (PhD Fall 2021~)  
 >Research Interest: Logistics systems, Order picking  
 >OR applications: Simulation, Machine learning, Large-scale optimization  
 >E-mail: [thaohuongtranvo@gmail.com](mailto:thaohuongtranvo@gmail.com)   
@@ -47,14 +47,14 @@ layout: single
 > <br>
 >* __Juho Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (PhD Spring 2021~)  
+>PhD Candidate (PhD Spring 2021~)  
 >Research Interest:  Optimization and Simulation in Manufacturing Area, Machine Learning  
 >OR applications: Simulation, Machine learning  
 >E-mail: [ysise99@pusan.ac.kr](mailto:ysise99@pusan.ac.kr)  
 > <br>
 >* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Gwanguk_Han.jpg">
->PhD Student (MS 2019~2021, PhD Spring 2022~)  
+>PhD Candidate (MS 2019~2021, PhD Spring 2022~)  
 >Research Interest: Analysis and Optimization of Material handling operations in Fabs  
 >OR applications: Simulation, Dispatching, Machine learning  
 >Teaching assistance (Facilities planning & material handling systems)  
@@ -65,7 +65,7 @@ layout: single
 > <br>
 >* __Jangeun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (PhD Spring 2022~)  
+>PhD Candidate (PhD Spring 2022~)  
 >Research Interest:   
 >OR applications:   
 >E-mail:  
@@ -73,10 +73,10 @@ layout: single
 > <br>
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
->PhD Student (MS 2022~2023, PhD Fall 2023~)  
+>PhD Student (MS 2022~2023, PhD Spring 2024~)  
 >Research Interest: Order picking   
 >OR applications: Simulation and Optimization  
->E-mail: [sag05017@pusan.ac.kr](mailto:sag05017@pusan.ac.kr)  
+>E-mail: [gwangheon.lee@pusan.ac.kr](mailto:gwangheon.lee@pusan.ac.kr)  
 > <br>
 > <br>
 > <br>
@@ -116,6 +116,15 @@ layout: single
 >Research Interest: Statistical Analysis and Optimization  
 >OR applications: Simulation   
 >E-mail: [hyunj0102@pusan.ac.kr](mailto:hyunj0102@pusan.ac.kr)
+> <br>
+> <br>
+> <br> 
+>* __Sangcheon Eom__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangcheon_Eom.jpg">
+>MS Student (MS Spring 2024~)  
+>Research Interest: Material Handling
+>OR applications: Simulation, Machine Learning   
+>E-mail: [sangcheon.eom@pusan.ac.kr](mailto:sangcheon.eom@pusan.ac.kr)
 > <br>
 > <br>
 > <br> 
