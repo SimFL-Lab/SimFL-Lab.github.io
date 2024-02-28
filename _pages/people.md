@@ -7,7 +7,7 @@ toc_label: "Students"
 layout: single
 ---
 
-## Ph.D. Candidates and Students
+## PhD Candidates and Students
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Student (MS 2017~2019, PhD Fall 2019~)  
@@ -81,8 +81,24 @@ layout: single
 > <br>
 > <br>
 > <br> 
+>* __Jeonghwan Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (MS 2015~2017, PhD Spring 2024~)  
+>Research Interest:   
+>OR applications:   
+>E-mail:  
+> <br>
+> <br>
+>* __Jhyunju Cho__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (PhD Spring 2024~)  
+>Research Interest:   
+>OR applications:   
+>E-mail:  
+> <br>
+> <br>
 
-## Master's Students
+## MS Students
 >* __Jungtae Park__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Jeongtae_Park.jpg">
 >MS Student (MS Spring 2022~)  
@@ -97,8 +113,8 @@ layout: single
 >MS Student (MS Spring 2022~)  
 >Research Interest: Order Picking   
 >OR applications: Simulation Optimization, Heuristics, Machine Learning  
->E-mail: [rosianarahma@pusan.ac.kr](mailto:rosianarahma@pusan.ac.kr)
-> <br>
+>E-mail: [rosianarahma@pusan.ac.kr](mailto:rosianarahma@pusan.ac.kr)  
+>[Additional Information](https://www.linkedin.com/in/rosianar) 
 > <br>
 > <br>
 >* __Jean Marne Gutierrez__  
@@ -131,6 +147,27 @@ layout: single
 > <br> 
 > <br> 
 
+## Integrated BS/MS Students
+>* __Dohun Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2023)  
+>Research Interest: Simulation optimization  
+>E-mail: [sss3507@naver.com](mailto:sss3507@naver.com) 
+> <br>
+> <br>
+> <br>
+> <br> 
+>* __Hoyoung Choi__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2023)  
+>Research Interest: Simulation, Statistical Analysis  
+>E-mail: [chlghdyd1234@naver.com](mailto:chlghdyd1234@naver.com) 
+> <br>
+> <br>
+> <br>
+> <br> 
+
+
 ## Undergraduate Students
 >* __Hyowon Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
@@ -159,24 +196,7 @@ layout: single
 > <br>
 > <br>
 > <br> 
->* __Dohun Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2023)  
->Research Interest: Simulation optimization  
->E-mail: [sss3507@naver.com](mailto:sss3507@naver.com) 
-> <br>
-> <br>
-> <br>
-> <br> 
->* __Hoyoung Choi__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2023)  
->Research Interest: Simulation, Statistical Analysis  
->E-mail: [chlghdyd1234@naver.com](mailto:chlghdyd1234@naver.com) 
-> <br>
-> <br>
-> <br>
-> <br> 
+
 
 ## Former Students
  
