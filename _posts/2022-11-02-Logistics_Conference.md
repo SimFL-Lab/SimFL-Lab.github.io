@@ -1,5 +1,5 @@
 ---
-title:  "Participation in 2022 Korea Logistics Society Conference"
+title:  "Participation in the 2022 Korea Logistics Society Conference"
 header:
     teaser: "/assets/images/PJT_Headline.jpg"
 excerpt: "JeongTae Park participated in a domestic conference, 2022 한국로지스틱스학회 공동학술대회, which was held on November 1, 2022 in Seoul, South Korea."
