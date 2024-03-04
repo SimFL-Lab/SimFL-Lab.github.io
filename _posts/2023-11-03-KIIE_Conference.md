@@ -1,5 +1,5 @@
 ---
-title:  "Participation in KIIE Fall Conference 2023"
+title:  "Participation in the KIIE Fall Conference 2023"
 header:
     teaser: "/assets/images/SAN_1.jpg"
 excerpt: "Taehoon Lee and Bonggwon Kang gave presentations at the KIIE Fall Conference 2023"
