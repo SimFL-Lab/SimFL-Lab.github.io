@@ -165,19 +165,20 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br> 
+> <br>
+>* __jonghyeon Chun__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Simulation modeling and Analysis  
+>E-mail: [popcon441@naver.com](mailto:popcon441@naver.com) 
+> <br>
+> <br>
+> <br>
+> <br>  
+
 
 
 ## Undergraduate Students
->* __Hyowon Choi__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Fall 2023)  
->Research Interest: Optimization, Simulation, Statistics  
->E-mail: [iios31@naver.com](mailto:iios31@naver.com) 
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Yechan Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Fall 2023)  
