@@ -14,7 +14,6 @@ layout: single
 >Research Interest: Analysis and Scheduling of Twin-mobility System  
 >OR applications: Optimization, Simulation, Meta heuristics   
 >Teaching assistance (Facilities planning & material handling systems)  
->E-mail: [ksung505@gmail.com](mailto:ksung505@gmail.com)
 > <br>
 > <br>
 >* __Taehoon Lee__  
@@ -23,7 +22,6 @@ layout: single
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation    
 >Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)  
->E-mail: [thlee4242@naver.com](mailto:thlee4242@naver.com)
 > <br>
 > <br>
 >* __Bonggwon Kang__  
@@ -32,8 +30,8 @@ layout: single
 >Research Interest: Simulation modeling and analysis, Simulation-based optimization  
 >OR applications: Simulation, Machine learning, Meta heuristics  
 >Teaching assistance (Simulation, Facilities planning & material handling systems)  
->E-mail: [bonggwon.kang@gmail.com](mailto:bonggwon.kang@gmail.com)   
 >[Additional Information](https://sites.google.com/view/bonggwon-kang) 
+> <br>
 > <br>
 > <br>
 > <br>
@@ -42,7 +40,7 @@ layout: single
 >PhD Candidate (PhD Fall 2021~)  
 >Research Interest: Logistics systems, Order picking  
 >OR applications: Simulation, Machine learning, Large-scale optimization  
->E-mail: [thaohuongtranvo@gmail.com](mailto:thaohuongtranvo@gmail.com)   
+> <br> 
 > <br>
 > <br>
 >* __Juho Lee__  
@@ -50,7 +48,7 @@ layout: single
 >PhD Candidate (PhD Spring 2021~)  
 >Research Interest:  Optimization and Simulation in Manufacturing Area, Machine Learning  
 >OR applications: Simulation, Machine learning  
->E-mail: [ysise99@pusan.ac.kr](mailto:ysise99@pusan.ac.kr)  
+> <br>
 > <br>
 >* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Gwanguk_Han.jpg">
@@ -58,7 +56,6 @@ layout: single
 >Research Interest: Analysis and Optimization of Material handling operations in Fabs  
 >OR applications: Simulation, Dispatching, Machine learning  
 >Teaching assistance (Facilities planning & material handling systems)  
->E-mail: [gwanguk.han@gmail.com](mailto:gwanguk.han@gmail.com)
 > <br>
 > <br>
 > <br>
@@ -68,7 +65,7 @@ layout: single
 >PhD Candidate (PhD Spring 2022~)  
 >Research Interest:   
 >OR applications:   
->E-mail:  
+> <br>
 > <br>
 > <br>
 >* __Gwangheon Lee__  
@@ -76,7 +73,7 @@ layout: single
 >PhD Student (MS 2022~2023, PhD Spring 2024~)  
 >Research Interest: Order picking   
 >OR applications: Simulation and Optimization  
->E-mail: [gwangheon.lee@pusan.ac.kr](mailto:gwangheon.lee@pusan.ac.kr)  
+> <br>
 > <br>
 > <br>
 > <br>
@@ -86,7 +83,7 @@ layout: single
 >PhD Student (MS 2015~2017, PhD Spring 2024~)  
 >Research Interest:   
 >OR applications:   
->E-mail:  
+> <br>
 > <br>
 > <br>
 >* __Hyunju Cho__  
@@ -94,7 +91,7 @@ layout: single
 >PhD Student (PhD Spring 2024~)  
 >Research Interest:   
 >OR applications:   
->E-mail:  
+> <br>
 > <br>
 > <br>
 
@@ -105,7 +102,7 @@ layout: single
 >Research Interest: Material handling  
 >OR applications: Simulation and Optimization  
 >Teaching assistance (Facilities planning & material handling systems)  
->E-mail: [pjt6441@pusan.ac.kr](mailto:pjt6441@pusan.ac.kr)  
+> <br>
 > <br>  
 > <br>  
 >* __Rosi Ana Rahmawati__  
@@ -113,8 +110,8 @@ layout: single
 >MS Student (MS Spring 2022~)  
 >Research Interest: Order Picking   
 >OR applications: Simulation Optimization, Heuristics, Machine Learning  
->E-mail: [rosianarahma@pusan.ac.kr](mailto:rosianarahma@pusan.ac.kr)  
 >[Additional Information](https://www.linkedin.com/in/rosianar) 
+> <br>
 > <br>
 > <br>
 >* __Jean Marne Gutierrez__  
@@ -122,7 +119,6 @@ layout: single
 >MS Student (MS Fall 2022~)  
 >Research Interest: Material Handling  
 >OR applications: Simulation and Optimization  
->E-mail: [jeanmarneg@pusan.ac.kr](mailto:jeanmarneg@pusan.ac.kr)
 > <br>
 > <br>
 > <br>
@@ -131,19 +127,17 @@ layout: single
 >MS Student (MS Spring 2023~)  
 >Research Interest: Statistical Analysis and Optimization  
 >OR applications: Simulation   
->E-mail: [hyunj0102@pusan.ac.kr](mailto:hyunj0102@pusan.ac.kr)
 > <br>
 > <br>
-> <br> 
+> <br>
 >* __Sangcheon Eom__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangcheon_Eom.jpg">
 >MS Student (MS Spring 2024~)  
 >Research Interest: Material Handling  
 >OR applications: Simulation, Machine Learning   
->E-mail: [sangcheon.eom@pusan.ac.kr](mailto:sangcheon.eom@pusan.ac.kr)
 > <br>
 > <br>
-> <br> 
+> <br>
 > <br> 
 > <br> 
 
@@ -152,29 +146,26 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2023)  
 >Research Interest: Simulation optimization  
->E-mail: [sss3507@naver.com](mailto:sss3507@naver.com) 
 > <br>
 > <br>
 > <br>
-> <br> 
+> <br>
 >* __Hoyoung Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2023)  
 >Research Interest: Simulation, Statistical Analysis  
->E-mail: [chlghdyd1234@naver.com](mailto:chlghdyd1234@naver.com) 
 > <br>
 > <br>
 > <br>
 > <br>
->* __jonghyeon Chun__  
+>* __Jonghyeon Chun__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2024)  
 >Research Interest: Simulation modeling and Analysis  
->E-mail: [popcon441@naver.com](mailto:popcon441@naver.com) 
 > <br>
 > <br>
 > <br>
-> <br>  
+> <br>
 
 
 
@@ -183,7 +174,6 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Fall 2023)  
 >Research Interest: Simulation and Reinforcement learning  
->E-mail: [ehnchan12@pusan.ac.kr](mailto:ehnchan12@pusan.ac.kr) 
 > <br>
 > <br>
 > <br>
@@ -192,7 +182,33 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Fall 2023)  
 >Research Interest: Simulation, Smart factory, Reinforcement learning  
->E-mail: [abcdefghye@pusan.ac.kr](mailto:abcdefghye@pusan.ac.kr) 
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Taeeon No__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Scheduling, Optimization, Reinforcement Learning
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
+>* __Juhwan Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Simulation, Smart Factory, Statistical Analysis
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
+>* __Hyuntak Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Hyuntak_Lee.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Material handling and Simulation
+> <br>
 > <br>
 > <br>
 > <br>
