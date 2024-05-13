@@ -16,6 +16,8 @@ __2024__
 >[2] T Lee, HY Fibrianto, S Hong, “Order batching problem in a parallel-aisle order picking system with larger-than-bin orders”, Journal of the Operational Research Society, in press
 >
 >[3] H Choi, H Byeon, S Yoon, B Kim, S Hong, "Analysis of Workforce Scheduling Using Adjusted Man-machine Chart and Simulation", Journal of Korean Society of Industrial and Systems Engineering, 47(1), 20-27 (2024)
+>
+>[4] Y Li, Z Sun, S Hong, "An exact algorithm for multiple-equipment integrated scheduling in an automated container terminal using a double-cycling strategy", Transportation Research Part E: Logistics and Transportation Review, in press
 
 __2023__
 >

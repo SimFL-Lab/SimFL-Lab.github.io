@@ -109,7 +109,7 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2022~)  
 >Research Interest: Order Picking   
->OR applications: Simulation Optimization, Heuristics, Machine Learning  
+>OR applications: Simulation optimization, Heuristics, Machine learning  
 >[Additional Information](https://www.linkedin.com/in/rosianar) 
 > <br>
 > <br>
@@ -125,7 +125,7 @@ layout: single
 >* __Hyunjung Yoon__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2023~)  
->Research Interest: Statistical Analysis and Optimization  
+>Research Interest: Statistical analysis and Optimization  
 >OR applications: Simulation   
 > <br>
 > <br>
@@ -134,7 +134,7 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangcheon_Eom.jpg">
 >MS Student (MS Spring 2024~)  
 >Research Interest: Material Handling  
->OR applications: Simulation, Machine Learning   
+>OR applications: Simulation, Machine learning   
 > <br>
 > <br>
 > <br>
@@ -153,7 +153,7 @@ layout: single
 >* __Hoyoung Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2023)  
->Research Interest: Simulation, Statistical Analysis  
+>Research Interest: Simulation, Statistical analysis  
 > <br>
 > <br>
 > <br>
@@ -189,7 +189,7 @@ layout: single
 >* __Taeeon No__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2024)  
->Research Interest: Scheduling, Optimization, Reinforcement Learning
+>Research Interest: Scheduling, Optimization, Reinforcement learning
 > <br>
 > <br>
 > <br>
@@ -198,7 +198,7 @@ layout: single
 >* __Juhwan Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2024)  
->Research Interest: Simulation, Smart Factory, Statistical Analysis
+>Research Interest: Simulation, Smart factory, Statistical analysis
 > <br>
 > <br>
 > <br>
@@ -208,6 +208,17 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Hyuntak_Lee.jpg">
 >Undergraduate Student (joined in Spring 2024)  
 >Research Interest: Material handling and Simulation
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
+> <br> 
+> <br>  
+>* __Sangwon Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Optimization, Ranking and selection
 > <br>
 > <br>
 > <br>
