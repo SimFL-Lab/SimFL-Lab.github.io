@@ -12,7 +12,6 @@ tags:
 last_modified_at: 2024-05-13
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/KSIE_1_2024.jpg">
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/KSIE_2_2024.jpg">  
 
 
 Bonggwon Kang gave presentations at the KSIE Spring Conference 2024
