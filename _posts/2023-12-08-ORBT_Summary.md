@@ -7,8 +7,8 @@ author: "Hyunjung"
 categories:
   - Paper summary
 tags:
-  - Order picking;
-  - Order batching;
+  - Order picking
+  - Order batching
 last_modified_at: 2023-12-08
 ---
 <img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/order_batch.jpg">

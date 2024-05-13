@@ -8,7 +8,7 @@ categories:
   - Paper summary
 tags:
   - Automated container terminal
-  - Multiple-equipment scheduling;
+  - Multiple-equipment scheduling
 last_modified_at: 2024-05-13
 ---
 <img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/EAMS.jpeg">
