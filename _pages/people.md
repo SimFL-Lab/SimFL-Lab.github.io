@@ -226,6 +226,17 @@ layout: single
 > <br> 
 > <br> 
 > <br> 
+>* __Woojin Choo__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Woojin_Choo.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Statistical analysis and Optimization
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
+> <br> 
+> <br> 
 
 
 ## Former Students
