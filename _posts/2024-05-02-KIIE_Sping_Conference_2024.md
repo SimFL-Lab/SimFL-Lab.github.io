@@ -9,7 +9,7 @@ categories:
 tags:
   - Conference
   - Achievement
-last_modified_at: 2023-11-06
+last_modified_at: 2024-05-10
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/2024_KIIE_1.jpg">
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/2024_KIIE_2.jpg">  

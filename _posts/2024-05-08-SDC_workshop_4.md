@@ -9,7 +9,7 @@ categories:
 tags:
   - Workshop
   - Achievement
-last_modified_at: 2024-01-18
+last_modified_at: 2024-05-10
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/SDC_KickOff_1.jpg"> 
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/SDC_KickOff_2.jpg"> 
