@@ -2,7 +2,7 @@
 title:  "SIMFL Lab 대학원생 모집"
 header:
     teaser: "/assets/images/lab_newstudent_1.jpg"
-excerpt: "제조물류연구실 연구원 상시모집 중"
+excerpt: "생산물류연구실 연구원 상시모집 중"
 author: "hyunjung"
 categories:
 
