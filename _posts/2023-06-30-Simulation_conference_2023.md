@@ -16,7 +16,7 @@ last_modified_at: 2023-07-03
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/SC_3.jpg"> 
 
 
-Four members of SimFL Lab, Jeongtae Park, Taehoon Lee, Hyunjung Yoon and Bonggwon Kang, participated in Simulation Conference 2023 which was taken place on June 30, 2023 in Seoul, South Korea.
+Four members of SimPL Lab, Jeongtae Park, Taehoon Lee, Hyunjung Yoon and Bonggwon Kang, participated in Simulation Conference 2023 which was taken place on June 30, 2023 in Seoul, South Korea.
 
 Presented research entitled:
 

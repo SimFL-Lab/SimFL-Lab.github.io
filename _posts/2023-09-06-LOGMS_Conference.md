@@ -9,7 +9,7 @@ categories:
 tags:
   - Conference
   - Achievement
-last_modified_at: 2023-09-07
+last_modified_at: 2023-09-07S
 ---
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/LOGMS_1.jpg">
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/LOGMS_2.jpg">  
