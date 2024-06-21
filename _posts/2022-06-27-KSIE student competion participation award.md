@@ -2,7 +2,7 @@
 title:  "KSIE student competition Bronze award"
 header:
     teaser: "/assets/images/20th_student_project_competition_Participation_Award1.jpg"
-excerpt: "SimFL lab's undergraduate students won a KSIE student's project competition."
+excerpt: "SimPL lab's undergraduate students won a KSIE student's project competition."
 author: "Jeongwon Park"
 categories:
   - Achievement

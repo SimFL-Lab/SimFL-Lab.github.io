@@ -2,7 +2,7 @@
 title:  "SCM student competition Participation Awards"
 header:
     teaser: "/assets/images/SCM student competition Participation Award - Jeongwon Park.jpg"
-excerpt: "SimFL lab's undergraduate students won a SCM student competition."
+excerpt: "SimPL lab's undergraduate students won a SCM student competition."
 author: "Jeongwon Park"
 categories:
   - achievement

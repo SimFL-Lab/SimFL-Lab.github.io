@@ -2,7 +2,7 @@
 title:  "Bringing Ideas and Innovations Through 2023 Winter Conference of Society for Computational Design and Engineering"
 header:
     teaser: "/assets/images/CDE5.jpg"
-excerpt: "Four SimFL members and five undergraduate students participated in a domestic conference, 2023 CDE, which was held on 8th - 11st February 2023 in Pyeongchang."
+excerpt: "Four SimPL members and five undergraduate students participated in a domestic conference, 2023 CDE, which was held on 8th - 11st February 2023 in Pyeongchang."
 author: "Rahmawati Rosi Ana"
 categories:
   - Conference
@@ -16,7 +16,7 @@ last_modified_at: 2023-02-17
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/CDE2.jpg">  
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/CDE3.jpg">  
 
-Four members of SimFL Laboratory, Bonggwon Kang, Taehoon Lee, Gwanguk Han, Gwangheon Lee and five undergraduate students took part in CDE 2023 conference which was held in Pyeongchang, South Korea. 
+Four members of SimPL Laboratory, Bonggwon Kang, Taehoon Lee, Gwanguk Han, Gwangheon Lee and five undergraduate students took part in CDE 2023 conference which was held in Pyeongchang, South Korea. 
 All participants presented four research posters as listed below.  
 1) Bonggwon Kang, Suhan Yoon, Permata Vallentino Eko Joatiko, Soondo Hong (2023), "Simulation-based Yard Storage Assignment Optimization in a Container Terminal"
 

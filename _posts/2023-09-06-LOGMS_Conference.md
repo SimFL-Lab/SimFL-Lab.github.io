@@ -2,7 +2,7 @@
 title:  "Participation in the LOGMS Conference 2023"
 header:
     teaser: "/assets/images/LOGMS_1.jpg"
-excerpt: "Seven SimFL members participated in the LOGMS Conference 2023."
+excerpt: "Seven SimPL members participated in the LOGMS Conference 2023."
 author: "Hyunjung"
 categories:
   - Conference
@@ -15,7 +15,7 @@ last_modified_at: 2023-09-07
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/LOGMS_2.jpg">  
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/LOGMS_3.jpg">  
 
-Three members of SimFL Laboratory, Bonggwon Kang, Bosung Kim and Tran Vo Thao Huong gave presentations in the LOGMS Conference 2023 which taken palce. on September 6,2023 in Busan, South Korea. 
+Three members of SimPL Laboratory, Bonggwon Kang, Bosung Kim and Tran Vo Thao Huong gave presentations in the LOGMS Conference 2023 which taken palce. on September 6,2023 in Busan, South Korea. 
 
 Presented research entitled:
 

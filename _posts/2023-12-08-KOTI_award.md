@@ -2,7 +2,7 @@
 title:  "Smart logistics service innovation idea contest Bronze award"
 header:
     teaser: "/assets/images/koti_1.jpg"
-excerpt: "SimFL lab's undergraduate students won Smart logistics service innovation idea contest."
+excerpt: "SimPL lab's undergraduate students won Smart logistics service innovation idea contest."
 author: "hyunjung"
 categories:
   - Achievement

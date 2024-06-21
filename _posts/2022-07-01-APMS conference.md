@@ -1,8 +1,8 @@
 ---
-title:  "3 papers from simfl lab were accepted at APMS conference"
+title:  "3 papers from SimPL lab were accepted at APMS conference"
 header:
     teaser: "/assets/images/APMS_conference.jpg"
-excerpt: "3 papers from simfl lab were accepted at APMS conference"
+excerpt: "3 papers from SimPL lab were accepted at APMS conference"
 author: "Jeongwon Park"
 categories:
   - achievement
